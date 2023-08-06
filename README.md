@@ -1,1 +1,0 @@
-# serkankocabas.github.io
