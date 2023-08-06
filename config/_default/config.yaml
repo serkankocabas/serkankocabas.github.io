@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Serkan Kocabaş # Website name
-baseURL: 'https://serkankocabas.github.io/skocabas-website/' # Website URL
+baseURL: 'https://serkankocabas.github.io' # Website URL
 
 ############################
 ## LANGUAGE
