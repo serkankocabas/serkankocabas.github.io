@@ -17,7 +17,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
-          - Economist
+          - Former Chief Economist
       sort_by: Params.last_name
       sort_ascending: true
     design:
