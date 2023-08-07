@@ -20,9 +20,7 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: associate professor (profesor titular) econ department of uc3m
-ramón y cajal fellow
-macroeconomist
+bio: associate professor (profesor titular) econ department of uc3m, ramon and cajal fellow, and macroeconomist
 
 # Interests to show in About widget
 
@@ -44,9 +42,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
