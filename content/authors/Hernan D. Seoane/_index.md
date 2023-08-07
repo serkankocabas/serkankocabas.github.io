@@ -42,8 +42,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: browser
-    icon_pack: fas
+  - icon: chrome
+    icon_pack: fab
     link: https://sites.google.com/view/hernanseoane   
 
   # Link to a PDF of your resume/CV.
