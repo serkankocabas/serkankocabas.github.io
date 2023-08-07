@@ -81,8 +81,8 @@ email: 'skocabas@eco.uc3m.es'
 highlight_name: true
 ---
 
-​​I am a ​Ph.D. Candidate in Economics at Universidad Carlos III de Madrid. 
+I am a Ph.D. Candidate in Economics at Universidad Carlos III de Madrid, specializing in macroeconomics. 
 
-I am a macroeconomist working on Fiscal and Monetary policies, International Macro and Quantitative Macro, currently focusing on climate change and firm heterogeneity.
+My research focuses on Fiscal and Monetary policies, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity.
 
 {style="text-align: justify;"}
