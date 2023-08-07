@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Serkan Kocabaş
+title: Hernan D. Seoane
 
 # Full name (for SEO)
-first_name: Serkan
-last_name: Kocabaş
+first_name: Hernan D.
+last_name: Seoane
 
 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,29 +20,15 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a macroeconomist currently focusing on climate change and firm heterogeneity.
+bio: associate professor (profesor titular) econ department of uc3m
+ramón y cajal fellow
+macroeconomist
 
 # Interests to show in About widget
-interests:
-  - Fiscal and Monetary Theory and Policy
-  - International Macroeconomics
-  - Quantitative Macroeconomics
+
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Economics
-      institution: Universidad Carlos III de Madrid
-      year: 2025 (Expected)
-    - course: MRes in Economic Analysis
-      institution: Universidad Carlos III de Madrid
-      year: 2022
-    - course: MSc in Macroeconomic Policy and Financial Markets
-      institution: Barcelona School of Economics
-      year: 2017
-    - course: BSc in Economics
-      institution: Middle East Technical University
-      year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,38 +37,29 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:skocabas@eco.uc3m.es'
+    link: 'mailto:hseoane@eco.uc3m.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/serkankocabas17
+    link: https://twitter.com/hernan79d
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/serkankocabas
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/serkankcbs/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
+
+ # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'skocabas@eco.uc3m.es'
+email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Advisors
 ---
-
-​​I am a ​Ph.D. Candidate in Economics at Universidad Carlos III de Madrid. 
-
-I am a macroeconomist working on Fiscal and Monetary policies, International Macro and Quantitative Macro, currently focusing on climate change and firm heterogeneity.
 
 {style="text-align: justify;"}
