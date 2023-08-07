@@ -40,12 +40,13 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hernan-seoane-6b139037/    
   - icon: chrome
     icon_pack: fab
     link: https://sites.google.com/view/hernanseoane
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/hernan-seoane-6b139037/      
+        
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
