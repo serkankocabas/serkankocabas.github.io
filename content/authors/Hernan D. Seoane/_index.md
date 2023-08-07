@@ -12,15 +12,13 @@ last_name: Seoane
 superuser: false
 
 # Role/position/tagline
-role: Professor (Ramon and Cajal fellow)
+role: Associate Professor of Economics (Ramon and Cajal fellow)
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidad Carlos III de Madrid
     url: https://economics.uc3m.es
 
-# Short bio (displayed in user profile at end of posts)
-bio:
 
 # Interests to show in About widget
 
@@ -44,7 +42,10 @@ social:
       header: true
   - icon: chrome
     icon_pack: fab
-    link: https://sites.google.com/view/hernanseoane   
+    link: https://sites.google.com/view/hernanseoane
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hernan-seoane-6b139037/      
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,

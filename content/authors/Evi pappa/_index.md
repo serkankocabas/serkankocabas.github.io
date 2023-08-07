@@ -12,7 +12,7 @@ last_name: Pappa
 superuser: false
 
 # Role/position/tagline
-role: Full Professor of Macroeconomics (Santander Chair)
+role: Professor of Macroeconomics (Santander Chair)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,6 +35,9 @@ social:
   - icon: chrome
     icon_pack: fab
     link: https://sites.google.com/site/evipappapersonalhomepage/home
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/evi-pappa-1ab76346/  
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
