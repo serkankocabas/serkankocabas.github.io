@@ -19,8 +19,6 @@ organizations:
   - name: BBVA Research
     url: https://www.bbvaresearch.com/en/author/alvaroortiz/
 
-# Short bio (displayed in user profile at end of posts)
-bio: Álvaro Ortiz is the Head of Analysis with Big Data at BBVA Research
 
 
 # Social/Academic Networking

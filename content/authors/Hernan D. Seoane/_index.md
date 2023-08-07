@@ -12,7 +12,7 @@ last_name: Seoane
 superuser: false
 
 # Role/position/tagline
-role: Professor
+role: Professor (Ramon and Cajal fellow)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: associate professor (profesor titular) econ department of uc3m, ramon and cajal fellow, and macroeconomist
+bio:
 
 # Interests to show in About widget
 
@@ -42,6 +42,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: browser
+    icon_pack: fas
+    link: https://sites.google.com/view/hernanseoane   
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,

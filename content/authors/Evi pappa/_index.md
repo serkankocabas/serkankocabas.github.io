@@ -12,7 +12,7 @@ last_name: Pappa
 superuser: false
 
 # Role/position/tagline
-role: Professor
+role: Full Professor of Macroeconomics (Santander Chair)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,6 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,10 +29,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ppappa@eco.uc3m.es'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=entqnlMAAAAJ&hl=en
-  - icon: f1a0 # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: browser
     icon_pack: fas
     link: https://sites.google.com/site/evipappapersonalhomepage/home
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -43,7 +42,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Advisors
 ---
 
 {style="text-align: justify;"}
