@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Ocean
-  theme_night: Ocean
+  theme_day: Earth
+  theme_night: Earth
   font: modern
   font_size: L
 
