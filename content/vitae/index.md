@@ -69,15 +69,15 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * The macroeconomic analysis of Turkey; together with the update of several econometric models
-              * Using the dynamic factor model for nowcasting Turkey's GDP growth
-              * Understanding of inﬂation dynamics in Turkey by estimating a Bayesian VAR
-              * Yield curve estimation in Turkey by extended Nelson-Siegel Model including macroeconomic variables
-              * Using the BEAR toolbox for forecasting and policy analysis
-              * Nowcasting the Turkish unemployment rate by using real-time data from Google
-              * Measuring Retail Trade index using card transactional data for Turkey
-              * Using natural language processing (NLP), also known as text mining, to the analysis of the communication policy (i.e.                       statements and minutes) of the Central Bank of Turkey (CBRT)
-              * Composing Foreign Aﬀairs Index by using Google’s Big-Query platform and the GDELT project to explore global risk
+              * Conducting macroeconomic analyses of Turkey, involving the regular update of various econometric models.
+              * Employing the dynamic factor model to effectively nowcast Turkey's GDP growth.
+              * Gaining insights into inflation dynamics within Turkey through the estimation of a Bayesian VAR model.
+              * Estimating the yield curve in Turkey using the extended Nelson-Siegel Model, incorporating macroeconomic variables.
+              * Utilizing the BEAR toolbox for accurate forecasting and comprehensive policy analysis.
+              * Employing real-time data sourced from Google to perform nowcasting for the Turkish unemployment rate.
+              * Developing the Retail Trade index by analyzing card transactional data for Turkey.
+              * Applying natural language processing (NLP) or text mining techniques to analyze communication policies, including statements and minutes, of the Central Bank of Turkey (CBRT).
+              * Constructing the Foreign Affairs Index by harnessing the power of Google’s Big-Query platform and leveraging the GDELT project to explore global risk trends
         - title: Intern at UNICEF Country Office
           company: United Nations
           company_url: 'https://www.unicef.org/turkiye/'
@@ -88,8 +88,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Assisted in the preparation of various projects (supply arrangements for Syrian refugees child)
-              * Assisted in the preparation of UNICEF-MoNE Rolling Work Plan 2016 - 2017
+              * Contributed to the preparation of diverse projects, including supply arrangements aimed at supporting the well-being of Syrian refugee children.
+              * Played a supportive role in the development of the UNICEF-MoNE Rolling Work Plan for the period spanning 2016 to 2017.
         - title: Project Assistant
           company: METU-TEKPOL
           company_url: 'https://stps.metu.edu.tr'
@@ -99,8 +99,8 @@ sections:
           date_end: '2015-07-01'
           description: |2-
               Responsibilities include:
-              * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets:                 Job and Wage Polarization)
-              * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
+              * Provided assistance in the preparation of projects centered around technological change, notably focusing on the significance of occupations within the Turkish labor markets, addressing aspects such as job and wage polarization.
+              * Collaborated in the research process and creation of working papers for esteemed faculty members, specifically contributing to work examining the repercussions of the population exchange involving Armenian communities on Turkish demographics and economic growth in the aftermath of the First World War.
     design:
       columns: '2'
   - block: accomplishments
