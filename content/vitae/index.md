@@ -31,7 +31,7 @@ sections:
           location: Madrid, Spain
           date_start: '2020-09-01'
           date_end: '2022-09-01'
-        - title: Master of Arts in Macroeconomic Policy and Financial Markets
+        - title: Master of Science in Macroeconomic Policy and Financial Markets
           company: Barcelona School of Economics
           company_url: 'https://bse.eu/study/masters-programs/macroeconomic-policy-and-financial-markets'
           company_logo: org-b
@@ -255,7 +255,7 @@ sections:
           date_start: '2017-11-01'
           date_end: '2020-08-01'
           description: |2-
-
+              
               * Received all the necessary training to be a sailor
               * The certiﬁcation is acquired to race with other teams in Istanbul
               * Attended many races throughout the membership period
@@ -267,7 +267,7 @@ sections:
           date_start: '2017-11-01'
           date_end: '2020-08-01'
           description: |2-
-
+           
               * Received much training related to developing communication skills, social skills, the ability to understand diﬀerent                      points of view, group working skills, and overall conﬁdence when facing a crowd
               * Played a role in the Garanti-BBVA commercial
         - title: Paragliding team member
@@ -278,7 +278,7 @@ sections:
           date_start: '2012-09-01'
           date_end: '2014-12-01'
           description: |2-
-              Responsibilities include:
+          
               * Attended all paragliding courses in the club to have some theoretical aspects
               * Learned ground inﬂation exercises
               * Made many solo ﬂights, guided by the instructors on the radio
