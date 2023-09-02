@@ -19,9 +19,6 @@ main:
   - name: References
     url: references/
     weight: 50
-  - name: Blog
-    url: blog/
-    weight: 60
   - name: Contact
     url: contact/
     weight: 70
