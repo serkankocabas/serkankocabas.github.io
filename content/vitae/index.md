@@ -65,7 +65,7 @@ sections:
           company_logo: org-gecb
           location: Frankfurt, Germany
           date_start: '2023-09-01'
-          date_end: ''
+          date_end: '2024-09-01'
           description: |2-
               Responsibilities include:
 
