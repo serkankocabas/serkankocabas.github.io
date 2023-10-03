@@ -59,6 +59,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD trainee
+          company: European Central Bank
+          company_url: 'https://www.ecb.europa.eu/home/html/index.en.html'
+          company_logo: org-gecb
+          location: Frankfurt, Germany
+          date_start: '2023-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Working on a project with Lorena Saiz to investigate the effect of monetary policy on firm-level investment from the Orbis database through bank loans in Anacredit.
         - title: Economist
           company: BBVA Research
           company_url: 'https://www.bbvaresearch.com/en/geography/turkiye/'
