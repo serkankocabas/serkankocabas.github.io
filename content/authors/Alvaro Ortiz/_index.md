@@ -40,7 +40,7 @@ social:
     link: https://www.linkedin.com/in/alvaro-ortiz-vidal-abarca/
   - icon: chrome
     icon_pack: fab
-    link: https://www.bbvaresearch.com/en/author/alvaroortiz/
+    link: https://www.bbvaresearch.com/en/author/alvaroortiz
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
