@@ -1,52 +1,43 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Workflow Status](https://github.com/simongravelle/simongravelle.github.io/actions/workflows/gh-pages.yml/badge.svg)
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+# Academic template
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+A simple academic template that is easy to deploy on GitHub page, and relatively
+easy to customize using css. You can find the [live](https://simongravelle.github.io/)
+version, and my resume [here](https://simongravelle.github.io/files/resume/resume-simon-gravelle.pdf).
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+## Overview
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+[![image](https://user-images.githubusercontent.com/43388542/216845033-cc7b0a28-60ff-4e86-a5ce-2c93930e08e2.png)](https://simongravelle.github.io/)
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+[![image](https://user-images.githubusercontent.com/43388542/216845176-a6effb49-db58-42b2-8b36-f65d5b959e39.png)](https://simongravelle.github.io/)
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+[![image](https://user-images.githubusercontent.com/43388542/216845058-77fe9c11-5086-494f-b83d-83d26c252a5b.png)](https://simongravelle.github.io/)
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Credit
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+This template was originally taken from [wowchemy](https://wowchemy.com/), with some custom CSS
+adapted from [nickballousite](https://github.com/nballou) webpage.
 
-## We ask you, humbly, to support this open source movement
+## Build locally
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+To build locally on your computer, type:
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+```bash
+hugo server
+```
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+## How to modify
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+After cloning this repository, you can adapt it by:
 
-## Demo image credits
+- add your own content in the [content](content/) folder,
+- custom css script can be written in [assets/scss/custom.scss](assets/scss/custom.scss),
+- each publication can be entered as a folder in [content/publication/](content/publication/).
 
-- [Unsplash](https://unsplash.com)
+## How to deploy
 
-## Latest news
-
-<!--START_SECTION:news-->
-
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+In Settings, Pages, select:
+- Deploy from a branch as Source
+- gh-pages, `/(root)` as Branch

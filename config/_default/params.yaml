@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Earth
-  theme_night: Earth
-  font: modern
+  theme_day: minimal
+  theme_night: minimal
+  font: custom_font
   font_size: L
 
 # SEO
@@ -18,13 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal page'
+    twitter: 'Gravellesimon'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
@@ -38,9 +36,19 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: true
 
 # Localization
 
@@ -55,24 +63,25 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
+    #theme_light: igor
+    #theme_dark: nord
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/simongravelle/simongravelle.github.io'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
+    provider: 'giscus'
     giscus:
       repo: ''
       repo_id: ''
@@ -104,3 +113,16 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+plugins_css: ["custom","codefolding"]
+
+############################
+## Code folding
+############################
+
+# Set to true to disable code folding
+disable_codefolding: false
+# Set to show to show all by default, hide to hide all by default - don't put inside quotes
+codefolding_show: show
+# Set to true to exclude the "Show/hide all" button
+codefolding_nobutton: false
