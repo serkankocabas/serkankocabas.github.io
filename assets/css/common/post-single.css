@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .post-description {
@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: 15px;
+    font-size: var(--meta-size);
 }
 
 .post-meta .i18n_list li {
@@ -28,8 +28,8 @@
 
 .post-content {
     color: var(--content);
-    line-height: var(--lineheight);
-    font-size: var(--textsize);
+    line-height: var(--line-height);
+    font-size: var(--content-size);
 }
 
 .post-content h3,
@@ -41,41 +41,41 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 1.85rem;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .post-content h3 {
-    font-size: 19px;    
+    font-size: 1.2rem;    
 }
 
 .post-content h4 {
-    font-size: 15px;    
+    font-size: 0.95rem;    
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: 0.85rem;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
 }
 
 .post-content h6 {
-    font-size: var(--footersize);
+    font-size: 0.8rem;
     color: var(--secondary);
 }
 
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 2px 0 var(--darkcolor);
+    box-shadow: 0 2px 0 var(--purple);
     color: currentColor; 
 }
 
@@ -100,7 +100,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: var(--marginleft); 
+    margin-left: var(--margin-left); 
 }
 
 .post-content li {
@@ -138,24 +138,24 @@
 }
 
 .post-content table {
-    margin-bottom: var(--content-gap);
+    margin-bottom: 32px;
 }
 
 .post-content table th,
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
-    padding: 8px 5px;
-    line-height: var(--lineheight);
+    padding: 12px 8px;
+    line-height: var(--line-height);
     border-bottom: 1px solid var(--border);
 }
 
 .post-content table th {
     text-align: start;
-    font-size: 14px;
+    font-size: 0.9rem;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
-    border-bottom: 2px solid var(--tertiary);
+    border-bottom: 2px solid var(--border);
 }
 
 .post-content table:not(.highlighttable) td code:only-child {
@@ -203,10 +203,10 @@
 }
 
 .post-content code {
-    margin: auto 4px;
-    padding: 4px 6px;
-    font-size: 0.78em;
-    line-height: var(--lineheight);
+    margin: auto 1px;
+    padding: 3px 3px;
+    font-size: 1rem;
+    line-height: var(--line-height);
     background: var(--code-bg);
     border-radius: 2px;
 }
@@ -215,7 +215,6 @@
     display: grid;
     margin: auto 0;
     padding: 10px;
-    color: var(--secondary);
     border-radius: var(--radius);
     overflow-x: auto;
     word-break: break-all;
@@ -223,13 +222,14 @@
 
 .post-content blockquote {
     margin: 20px 0;
-    padding: 0 14px;
-    border-inline-start: 4px solid var(--tertiary);
+    padding: 0 20px;
+    color: var(--secondary);    
+    border-inline-start: 6px solid var(--border);
 }
 
 .post-content hr {
     margin: 30px 0;
-    height: 2px;
+    height: 1px;
     background: var(--tertiary);
     border: 0;
 }
@@ -252,15 +252,15 @@
 }
 
 .post-content figure > figcaption {
-    color: var(--primary);
-    font-size: 16px;
+    color: var(--content);
+    font-size: var(--content-size);
     font-weight: bold;
     margin: 8px 0 16px;
 }
 
 .post-content figure > figcaption > p {
     color: var(--secondary);
-    font-size: 14px;
+    font-size: var(--meta-size);
     font-weight: normal;
 }
 
@@ -276,32 +276,21 @@
     color: var(--tertiary);
 }
 
-.dark .toc {
-    background: var(--entry);
-}
-
 .toc details summary {
-    cursor: zoom-in;
-    margin-inline-start: 10px;
-    user-select: none;
-}
-
-.toc details[open] summary {
-    cursor: zoom-out;
+    margin-inline-start: calc(var(--margin-left) - 12px);
 }
 
 .toc .details {
     display: inline;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 0.9rem;
 }
 
 .toc .inner {
-    margin: 5px 20px 0;
-    padding: 0 10px;
-    opacity: 0.9;
-    font-size: 16px;
+    margin: 0 calc(var(--margin-left) - 12px);
+    padding: 10px 20px;
+    font-size: var(--meta-size);
 }
 
 .toc li ul {
@@ -326,51 +315,34 @@
     gap: 10px;
 }
 
-
 .post-tags li {
     display: inline-block;
 }
 
 .post-tags a,
-.share-buttons,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
+    border: 1px solid var(--border);
 }
 
 .post-tags a {
     display: block;
     padding: 0 10px;
     color: var(--secondary);
-    font-size: 16px;
+    font-size: var(--meta-size);
     line-height: 32px;
     background: var(--code-bg);
 }
 
 .post-tags a:hover {
-    background: var(--lightcolor);
+    background: var(--graypurple);
+    border: 1px solid var(--purple);
+
 }
 
 .paginav a:hover {
-    background: var(--lightcolor);
-}
-
-.share-buttons {
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    overflow-x: auto;
-    gap: 10px;
-}
-
-.share-buttons li,
-.share-buttons a {
-    display: inline-flex;
-}
-
-
-.share-buttons a:not(:last-of-type) {
-    margin-inline-end: 12px;
+    background: var(--graypurple);
 }
 
 h1:hover .anchor,
@@ -380,17 +352,28 @@ h4:hover .anchor,
 h5:hover .anchor,
 h6:hover .anchor {
     display: inline-flex;
-    color: var(--darkcolor);
+    color: var(--purple);
     margin-inline-start: 10px;
     font-weight: 700;
     user-select: none;
-    box-shadow: 0 0px 0 var(--darkcolor);
+    box-shadow: 0 0px 0 var(--purple);
+}
+
+
+a[href^="#fn:"], a[href^="#fnref:"] {
+     box-shadow: 0 0px 0 var(--purple);
+}
+
+a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
+    color: var(--purple);
 }
 
 .paginav {
+    margin: 10px 0;
     display: flex;
-    line-height: var(--lineheight);
-    font-size: var(--footersize);
+    line-height: var(--line-height);
+    font-size: var(--footer-size);
+    border-radius: var(--radius);
 }
 
 .paginav a {
@@ -403,7 +386,6 @@ h6:hover .anchor {
 .paginav .title {
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-size: small;
     color: var(--secondary);
 }
 
@@ -429,12 +411,4 @@ h1>a>svg {
 img.in-text {
     display: inline;
     margin: auto;
-}
-
-a[href^="#fn:"], a[href^="#fnref:"] {
-     box-shadow: 0 0px 0 var(--darkcolor);
-}
-
-a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
-    color: var(--darkcolor);
 }

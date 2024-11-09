@@ -1,6 +1,6 @@
 .footer,
 .top-link {
-    font-size: var(--footersize);
+    font-size: var(--footer-size);
     color: var(--secondary);
 }
 
@@ -26,7 +26,7 @@
 }
 
 .footer a:hover {
-    border-bottom: 2px solid var(--darkcolor);
+    border-bottom: 2px solid var(--purple);
 }
 
 .top-link {
@@ -51,9 +51,4 @@
 .footer a:hover,
 .top-link:hover {
     color: var(--secondary);
-}
-
-.top-link:focus,
-#theme-toggle:focus {
-    outline: 0;
 }

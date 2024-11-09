@@ -44,7 +44,7 @@
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
-            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }}">
+            <a href="{{ "" | absLangURL }}" accesskey="h">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -60,11 +60,11 @@
                             {{- $img = $img.Resize "x30" }}
                         {{- end }}
                     {{- end }}
-                    <img src="{{ $img.Permalink }}" alt="" aria-label="logo"
+                    <img src="{{ $img.Permalink }}" alt="logo" aria-label="logo"
                         height="{{- site.Params.label.iconHeight | default "30" -}}"
                         width="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- else }}
-                <img src="{{- site.Params.label.icon | absURL -}}" alt="" aria-label="logo"
+                <img src="{{- site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
                     height="{{- site.Params.label.iconHeight | default "30" -}}"
                     width="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- end -}}
@@ -76,7 +76,7 @@
             {{- end }}
             <div class="logo-switches">
                 {{- if (not site.Params.disableThemeToggle) }}
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                <button id="theme-toggle" accesskey="t">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
@@ -106,8 +106,7 @@
                     {{- range . -}}
                     {{- if ne $lang .Lang }}
                     <li>
-                        <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
-                            aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
+                        <a href="{{- .Permalink -}}">
                             {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
                             {{- .Language.LanguageName | emojify -}}
                             {{- else }}
@@ -128,8 +127,7 @@
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
             <li>
-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
-                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                <a href="{{ .URL | absLangURL }}">
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
                         {{- .Pre }}
                         {{- .Name -}}

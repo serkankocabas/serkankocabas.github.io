@@ -1,40 +1,40 @@
 baseURL: "https://serkankocabas.github.io" 
 title: Serkan Kocabas
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
+paginate: 20
+
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: /papers/
+          weight: 1
+        - name: Vitae
+          url: /courses/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Teaching
+          url: /design/
+          weight: 3        
+        - name: References
+          url: /tags/
+          weight: 4
+        - name: Contact
+          url: /archive/
+          weight: 5
 
 params:
-    description: "I am an economist currently pursuing my Ph.D. in Economics at Universidad Carlos III de Madrid while working as a Ph.D. trainee at the European Central Bank. Prior to my doctoral studies, I gained valuable experience as an Economist at BBVA-Research. I completed my Master of Research in Economic Analysis at Universidad Carlos III de Madrid. Additionally, I hold a Master of Science in Macroeconomic Policy and Financial Markets from the Barcelona School of Economics, and I obtained my bachelor's degree in Economics from Middle East Technical University.
-
-My research focuses on Fiscal and Monetary policies, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity."
+    description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and contact information."
     author: Serkan Kocabas
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: ""
+    images: ["cover.png"]
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -44,7 +44,7 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","courses","design"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,57 +54,47 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Serkan Kocabas
+          subtitle: "I am an economist currently pursuing my Ph.D. in Economics at Universidad Carlos III de Madrid while working as a Ph.D. trainee at the European Central Bank. Prior to my doctoral studies, I gained valuable experience as an Economist at BBVA-Research. I completed my Master of Research in Economic Analysis at Universidad Carlos III de Madrid. Additionally, I hold a Master of Science in Macroeconomic Policy and Financial Markets from the Barcelona School of Economics, and I obtained my bachelor’s degree in Economics from Middle East Technical University. My research focuses on Fiscal and Monetary policies, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity."
+          imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: /papers/
+            - name: Vitae
+              url: /courses/
+            - name: Teaching
+              url: /design/
+            - name: References
+              url: /tags/
+            - name: Contact
+              url: /archive/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: /cv.pdf
         - name: Email
           url: mailto:skocabas@eco.uc3m.es
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Location
-          url: location/
+          url: /location/
         - name: Office Hours
-          url: officehours/
+          url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/serkankocabas
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: 
         - name: Twitter
           url: https://x.com/serkankocabas26
+        - name: GitHub
+          url: https://github.com/serkankocabas
 
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Serkan Kocabas"
-      icon: favicon.ico
+      text: "Pascal Michaillat"
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
@@ -113,8 +103,10 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: xcode 
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+titleCaseStyle: 'none'

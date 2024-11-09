@@ -1,4 +1,5 @@
 :root {
+/*PaperMod variables*/
     --gap: 24px;
     --content-gap: 20px;
     --nav-width: 1024px;
@@ -6,46 +7,32 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+    --content: rgb(30, 30, 30); /*text*/
     --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --darkcolor: #d95f0e;
-    --lightcolor: #fed582;
+    --secondary: rgb(108, 108, 108); /*metadata*/
+    --tertiary: rgb(165, 165, 165); /*lines & items*/
+    --border: rgb(230, 230, 230); /*borders*/
+    --code-bg: rgb(245, 245, 245); /*areas*/
+    --code-block-bg: rgb(245, 245, 245);
+    --entry: rgb(255, 255, 255); /*background*/
+    --theme: rgb(255, 255, 255);
+/*Custom variables*/
+    --purple: #6e55c3; /*links*/
+    --graypurple: #e5e1f4; /*hovered buttons*/
+    --gray: rgb(165, 165, 165); /*labels*/
+    --archive: rgb(200, 200, 200); /*archive lines*/
     --semibold: 500;
-    --homesize: 16px;
-    --textsize: 18px;
-    --h1size: 25px;
-    --entrysize: 15px;
-    --headersize: 16px;
-    --footersize: 13px;
-    --lineheight: 1.45;
-    --lineclamp: 8;
-    --marginleft: 26px;
-}
-
-.dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --content-size:1.15rem;
+    --home-size: 1rem;
+    --header-size: 1rem;
+    --meta-size: 1rem;
+    --entry-size: 0.95rem;
+    --footer-size: 0.8rem;
+    --line-height: 1.45;
+    --margin-left: 26px;
 }
 
 .list {
     background: var(--code-bg);
 }
 
-.dark.list {
-    background: var(--theme);
-}

@@ -1,207 +1,772 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
-    <description>Recent content in Tags on Moritz-Maria von Igelfeld</description>
+    <title>Tags on Pascal Michaillat</title>
+    <link>https://pascalmichaillat.org/tags/</link>
+    <description>Recent content in Tags on Pascal Michaillat</description>
+    <image>
+      <title>Pascal Michaillat</title>
+      <url>https://pascalmichaillat.org/cover.png</url>
+      <link>https://pascalmichaillat.org/cover.png</link>
+    </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Academia</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/academia/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/academia/</guid>
+      <title>Beveridge curve</title>
+      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
       <description></description>
     </item>
     <item>
-      <title>Experimental Psychology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/experimental-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/experimental-psychology/</guid>
+      <title>directed search</title>
+      <link>https://pascalmichaillat.org/tags/directed-search/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/directed-search/</guid>
       <description></description>
     </item>
     <item>
-      <title>Inner Hedgehog</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/inner-hedgehog/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/inner-hedgehog/</guid>
+      <title>divine coincidence</title>
+      <link>https://pascalmichaillat.org/tags/divine-coincidence/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/divine-coincidence/</guid>
       <description></description>
     </item>
     <item>
-      <title>Invasive Thoughts</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/invasive-thoughts/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/invasive-thoughts/</guid>
+      <title>economic slack</title>
+      <link>https://pascalmichaillat.org/tags/economic-slack/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
       <description></description>
     </item>
     <item>
-      <title>Social Psychology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/social-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/social-psychology/</guid>
+      <title>kinked Phillips curve</title>
+      <link>https://pascalmichaillat.org/tags/kinked-phillips-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/kinked-phillips-curve/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dataset</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/dataset/</guid>
+      <title>matching model</title>
+      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
       <description></description>
     </item>
     <item>
-      <title>French</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/french/</guid>
+      <title>monetary policy</title>
+      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/irregular-verbs/</guid>
+      <title>Phillips curve</title>
+      <link>https://pascalmichaillat.org/tags/phillips-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/phillips-curve/</guid>
       <description></description>
     </item>
     <item>
-      <title>Italian</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/italian/</guid>
+      <title>tightness gap</title>
+      <link>https://pascalmichaillat.org/tags/tightness-gap/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/tightness-gap/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/philology/</guid>
+      <title>unemployment gap</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     <item>
-      <title>Portuguese</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/portuguese/</guid>
+      <title>wealth in the utility</title>
+      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
       <description></description>
     </item>
     <item>
-      <title>Python</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/python/</guid>
+      <title>Borjas-Card controversy</title>
+      <link>https://pascalmichaillat.org/tags/borjas-card-controversy/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/borjas-card-controversy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Romance Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/romance-languages/</guid>
+      <title>business cycles</title>
+      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
       <description></description>
     </item>
     <item>
-      <title>Simulations</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/simulations/</guid>
+      <title>immigration policy</title>
+      <link>https://pascalmichaillat.org/tags/immigration-policy/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/immigration-policy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Spanish</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/spanish/</guid>
+      <title>job rationing</title>
+      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
       <description></description>
     </item>
     <item>
-      <title>History of Oil</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/history-of-oil/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/history-of-oil/</guid>
+      <title>job stealing</title>
+      <link>https://pascalmichaillat.org/tags/job-stealing/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-stealing/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mediterranean World</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/mediterranean-world/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/mediterranean-world/</guid>
+      <title>politics</title>
+      <link>https://pascalmichaillat.org/tags/politics/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/politics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Oleic Science</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/oleic-science/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/oleic-science/</guid>
+      <title>state dependence</title>
+      <link>https://pascalmichaillat.org/tags/state-dependence/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/state-dependence/</guid>
       <description></description>
     </item>
     <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/canine-pulmonary-efficiency/</guid>
+      <title>unemployment</title>
+      <link>https://pascalmichaillat.org/tags/unemployment/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
       <description></description>
     </item>
     <item>
-      <title>Canine Science</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/canine-science/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/canine-science/</guid>
+      <title>wage rigidity</title>
+      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Experimental Zoology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/experimental-zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/experimental-zoology/</guid>
+      <title>efficient unemployment rate</title>
+      <link>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sausage Dogs</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/sausage-dogs/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/sausage-dogs/</guid>
+      <title>FERU</title>
+      <link>https://pascalmichaillat.org/tags/feru/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/feru/</guid>
       <description></description>
     </item>
     <item>
-      <title>Zoology</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/zoology/</guid>
+      <title>full employment</title>
+      <link>https://pascalmichaillat.org/tags/full-employment/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/full-employment/</guid>
       <description></description>
     </item>
     <item>
-      <title>Portugese</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/portugese/</guid>
+      <title>job vacancies</title>
+      <link>https://pascalmichaillat.org/tags/job-vacancies/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-vacancies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Celtic Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/celtic-languages/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/celtic-languages/</guid>
+      <title>labor-force participation</title>
+      <link>https://pascalmichaillat.org/tags/labor-force-participation/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/labor-force-participation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Irish</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/irish/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/irish/</guid>
+      <title>false positives</title>
+      <link>https://pascalmichaillat.org/tags/false-positives/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/false-positives/</guid>
       <description></description>
     </item>
     <item>
-      <title>Language Modernization</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/language-modernization/</guid>
+      <title>Michez rule</title>
+      <link>https://pascalmichaillat.org/tags/michez-rule/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/michez-rule/</guid>
       <description></description>
     </item>
     <item>
-      <title>Profanity</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/profanity/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/tags/profanity/</guid>
+      <title>nowcasting</title>
+      <link>https://pascalmichaillat.org/tags/nowcasting/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/nowcasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession indicator</title>
+      <link>https://pascalmichaillat.org/tags/recession-indicator/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-indicator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession probability</title>
+      <link>https://pascalmichaillat.org/tags/recession-probability/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-probability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession threshold</title>
+      <link>https://pascalmichaillat.org/tags/recession-threshold/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-threshold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recessions</title>
+      <link>https://pascalmichaillat.org/tags/recessions/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recessions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sahm rule</title>
+      <link>https://pascalmichaillat.org/tags/sahm-rule/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/sahm-rule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMP model</title>
+      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>labor-market tightness</title>
+      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matching function</title>
+      <link>https://pascalmichaillat.org/tags/matching-function/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>public employment</title>
+      <link>https://pascalmichaillat.org/tags/public-employment/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment insurance</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bonferroni correction</title>
+      <link>https://pascalmichaillat.org/tags/bonferroni-correction/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/bonferroni-correction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>critical values</title>
+      <link>https://pascalmichaillat.org/tags/critical-values/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/critical-values/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hypothesis testing</title>
+      <link>https://pascalmichaillat.org/tags/hypothesis-testing/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/hypothesis-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>incentives</title>
+      <link>https://pascalmichaillat.org/tags/incentives/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/incentives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>metascience</title>
+      <link>https://pascalmichaillat.org/tags/metascience/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/metascience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>optimal stopping</title>
+      <link>https://pascalmichaillat.org/tags/optimal-stopping/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/optimal-stopping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>p-hacking</title>
+      <link>https://pascalmichaillat.org/tags/p-hacking/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/p-hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>publication bias</title>
+      <link>https://pascalmichaillat.org/tags/publication-bias/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/publication-bias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>statistical significance</title>
+      <link>https://pascalmichaillat.org/tags/statistical-significance/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/statistical-significance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>type 1 error</title>
+      <link>https://pascalmichaillat.org/tags/type-1-error/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/type-1-error/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fiscal policy</title>
+      <link>https://pascalmichaillat.org/tags/fiscal-policy/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/fiscal-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>inequality</title>
+      <link>https://pascalmichaillat.org/tags/inequality/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/inequality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keynesian unemployment</title>
+      <link>https://pascalmichaillat.org/tags/keynesian-unemployment/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/keynesian-unemployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kuhnian model</title>
+      <link>https://pascalmichaillat.org/tags/kuhnian-model/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/kuhnian-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>efficient tightness</title>
+      <link>https://pascalmichaillat.org/tags/efficient-tightness/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/efficient-tightness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zero lower bound</title>
+      <link>https://pascalmichaillat.org/tags/zero-lower-bound/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/zero-lower-bound/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sufficient statistics</title>
+      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wealth tax</title>
+      <link>https://pascalmichaillat.org/tags/wealth-tax/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wealth-tax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hagedorn-Manovskii calibration</title>
+      <link>https://pascalmichaillat.org/tags/hagedorn-manovskii-calibration/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/hagedorn-manovskii-calibration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hosios condition</title>
+      <link>https://pascalmichaillat.org/tags/hosios-condition/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/hosios-condition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>corporate greed</title>
+      <link>https://pascalmichaillat.org/tags/corporate-greed/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/corporate-greed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fair markups</title>
+      <link>https://pascalmichaillat.org/tags/fair-markups/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/fair-markups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fair prices</title>
+      <link>https://pascalmichaillat.org/tags/fair-prices/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/fair-prices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>inflation aversion</title>
+      <link>https://pascalmichaillat.org/tags/inflation-aversion/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/inflation-aversion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>misinference</title>
+      <link>https://pascalmichaillat.org/tags/misinference/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/misinference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>monopoly pricing</title>
+      <link>https://pascalmichaillat.org/tags/monopoly-pricing/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/monopoly-pricing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Keynesian model</title>
+      <link>https://pascalmichaillat.org/tags/new-keynesian-model/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/new-keynesian-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>price rigidity</title>
+      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Euler equation</title>
+      <link>https://pascalmichaillat.org/tags/euler-equation/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/euler-equation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fiscal multiplier</title>
+      <link>https://pascalmichaillat.org/tags/fiscal-multiplier/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/fiscal-multiplier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>forward guidance</title>
+      <link>https://pascalmichaillat.org/tags/forward-guidance/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/forward-guidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>phase diagrams</title>
+      <link>https://pascalmichaillat.org/tags/phase-diagrams/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/phase-diagrams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>social status</title>
+      <link>https://pascalmichaillat.org/tags/social-status/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/social-status/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>government spending</title>
+      <link>https://pascalmichaillat.org/tags/government-spending/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/government-spending/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samuelson rule</title>
+      <link>https://pascalmichaillat.org/tags/samuelson-rule/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/samuelson-rule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>stimulus package</title>
+      <link>https://pascalmichaillat.org/tags/stimulus-package/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/stimulus-package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>beetles</title>
+      <link>https://pascalmichaillat.org/tags/beetles/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/beetles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>homophily</title>
+      <link>https://pascalmichaillat.org/tags/homophily/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/homophily/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>paradigms</title>
+      <link>https://pascalmichaillat.org/tags/paradigms/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/paradigms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>scientific progress</title>
+      <link>https://pascalmichaillat.org/tags/scientific-progress/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/scientific-progress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>scientific revolutions</title>
+      <link>https://pascalmichaillat.org/tags/scientific-revolutions/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/scientific-revolutions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tenure</title>
+      <link>https://pascalmichaillat.org/tags/tenure/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/tenure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youden index</title>
+      <link>https://pascalmichaillat.org/tags/youden-index/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/youden-index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>economic growth</title>
+      <link>https://pascalmichaillat.org/tags/economic-growth/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/economic-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GDP</title>
+      <link>https://pascalmichaillat.org/tags/gdp/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/gdp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>inflation</title>
+      <link>https://pascalmichaillat.org/tags/inflation/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/inflation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IS-LM model</title>
+      <link>https://pascalmichaillat.org/tags/is-lm-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/is-lm-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malthusian model</title>
+      <link>https://pascalmichaillat.org/tags/malthusian-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/malthusian-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solow model</title>
+      <link>https://pascalmichaillat.org/tags/solow-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/solow-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baily-Chetty formula</title>
+      <link>https://pascalmichaillat.org/tags/baily-chetty-formula/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/baily-chetty-formula/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment benefits</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-benefits/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-benefits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>job creation</title>
+      <link>https://pascalmichaillat.org/tags/job-creation/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-creation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>job search</title>
+      <link>https://pascalmichaillat.org/tags/job-search/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>moral hazard</title>
+      <link>https://pascalmichaillat.org/tags/moral-hazard/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/moral-hazard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rat race</title>
+      <link>https://pascalmichaillat.org/tags/rat-race/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/rat-race/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barro-Grossman model</title>
+      <link>https://pascalmichaillat.org/tags/barro-grossman-model/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/barro-grossman-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>idle capacity</title>
+      <link>https://pascalmichaillat.org/tags/idle-capacity/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/idle-capacity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>product-market tightness</title>
+      <link>https://pascalmichaillat.org/tags/product-market-tightness/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/product-market-tightness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>crowding out</title>
+      <link>https://pascalmichaillat.org/tags/crowding-out/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/crowding-out/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bellman equation</title>
+      <link>https://pascalmichaillat.org/tags/bellman-equation/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/bellman-equation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benveniste-Scheinkman equation</title>
+      <link>https://pascalmichaillat.org/tags/benveniste-scheinkman-equation/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/benveniste-scheinkman-equation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>differential equations</title>
+      <link>https://pascalmichaillat.org/tags/differential-equations/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/differential-equations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dynamic programming</title>
+      <link>https://pascalmichaillat.org/tags/dynamic-programming/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dynamical systems</title>
+      <link>https://pascalmichaillat.org/tags/dynamical-systems/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/dynamical-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hamiltonian</title>
+      <link>https://pascalmichaillat.org/tags/hamiltonian/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/hamiltonian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HJB equation</title>
+      <link>https://pascalmichaillat.org/tags/hjb-equation/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/hjb-equation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>optimal control</title>
+      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>optimization</title>
+      <link>https://pascalmichaillat.org/tags/optimization/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>frictional unemployment</title>
+      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rationing unemployment</title>
+      <link>https://pascalmichaillat.org/tags/rationing-unemployment/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/rationing-unemployment/</guid>
       <description></description>
     </item>
   </channel>

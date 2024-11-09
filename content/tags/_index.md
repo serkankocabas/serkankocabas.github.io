@@ -1,5 +1,7 @@
 ---
 title: "Tags"
-description: "Topics covered and methods used in my research papers and courses."
+date: 2024-08-24
+author: "Pascal Michaillat"
+description: "List of keywords appearing in Pascal Michaillat's research papers and course materials."
 layout: "terms"
 ---

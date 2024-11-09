@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Has the Recession Started? | Pascal Michaillat</title>
+<meta name="keywords" content="false positives, job vacancies, Michez rule, nowcasting, recession indicator, recession probability, recession threshold, recessions, Sahm rule, unemployment">
+<meta name="description" content="This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.">
+<meta name="author" content="Pascal Michaillat,&thinsp;Emmanuel Saez">
+<link rel="canonical" href="https://pascalmichaillat.org/16/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.f3b29133eb4e0eb9c454453f2fe0532e0c6188faa44862f117a0b2af38c18449.css" integrity="sha256-87KRM&#43;tODrnEVEU/L&#43;BTLgxhiPqkSGLxF6CyrzjBhEk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://pascalmichaillat.org/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://pascalmichaillat.org/16/">
+<meta property="og:title" content="Has the Recession Started?" />
+<meta property="og:description" content="This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://pascalmichaillat.org/16/" />
+<meta property="og:image" content="https://pascalmichaillat.org/16s.png" /><meta property="article:section" content="papers" />
+<meta property="article:published_time" content="2024-09-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-10-08T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://pascalmichaillat.org/16s.png" />
+<meta name="twitter:title" content="Has the Recession Started?"/>
+<meta name="twitter:description" content="This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Papers",
+      "item": "https://pascalmichaillat.org/papers/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Has the Recession Started?",
+      "item": "https://pascalmichaillat.org/16/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Has the Recession Started?",
+  "name": "Has the Recession Started?",
+  "description": "This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.",
+  "keywords": [
+    "false positives", "job vacancies", "Michez rule", "nowcasting", "recession indicator", "recession probability", "recession threshold", "recessions", "Sahm rule", "unemployment"
+  ],
+  "articleBody": " Paper Code and data Abstract To answer this question, we develop a new Sahm-type recession indicator that combines vacancy and unemployment data. The indicator is the minimum of the Sahm indicator—the difference between the 3-month trailing average of the unemployment rate and its minimum over the past 12 months—and a similar indicator constructed with the vacancy rate—the difference between the 3-month trailing average of the vacancy rate and its maximum over the past 12 months. We then propose a two-sided recession rule: When our indicator reaches 0.3pp, a recession may have started; when the indicator reaches 0.8pp, a recession has started for sure. This new rule is triggered earlier than the Sahm rule: on average it detects recessions 0.8 month after they have started, while the Sahm rule detects them 2.1 months after their start. The new rule also has a better historical track record: it perfectly identifies all recessions since 1929, while the Sahm rule breaks down before 1960. With August 2024 data, our indicator is at 0.54pp, so the probability that the US economy is now in recession is 48%. In fact, the recession may have started as early as March 2024.\nFigure 2B: Construction of the recession indicator in the United States, 1960–2024 Figure 4: Recession indicator with two-sided recession rule in the United States, 1960–2024 Citation Michaillat, Pascal, and Emmanuel Saez. 2024. “Has the Recession Started?” arXiv:2408.05856v2. https://doi.org/10.48550/arXiv.2408.05856 .\n@techreport{MS24, author = {Pascal Michaillat and Emmanuel Saez}, year = {2024}, title = {Has the Recession Started?}, number = {arXiv:2408.05856v2}, url = {https://doi.org/10.48550/arXiv.2408.05856}} Related material Update of the recession indicator with October 2024 data Update of the recession indicator with September 2024 data ",
+  "wordCount" : "276",
+  "inLanguage": "en",
+  "image":"https://pascalmichaillat.org/16s.png","datePublished": "2024-09-09T00:00:00Z",
+  "dateModified": "2024-10-08T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Pascal Michaillat"
+  }, {
+    "@type": "Person",
+    "name": "Emmanuel Saez"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pascalmichaillat.org/16/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pascal Michaillat",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pascalmichaillat.org/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-97G4MZ4061"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-97G4MZ4061');
+</script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://pascalmichaillat.org/" accesskey="h">
+                <img src="https://pascalmichaillat.org/favicon.ico" alt="logo" aria-label="logo"
+                    height="18"
+                    width="18">Pascal Michaillat</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://pascalmichaillat.org/papers/">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/courses/">
+                    <span>Courses</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/design/">
+                    <span>Design</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/tags/">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/archive/">
+                    <span>Archive</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Has the Recession Started?
+    </h1>
+    <div class="post-meta"><span title='2024-09-09 00:00:00 +0000 UTC'>September 2024</span>&nbsp;&middot;&nbsp;Pascal Michaillat,&thinsp;Emmanuel Saez&nbsp;&middot;&nbsp;<a href="https://doi.org/10.48550/arXiv.2408.05856" rel="noopener noreferrer" target="_blank">arXiv</a>
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<ul>
+<li><a href="/16.pdf">Paper</a>
+</li>
+<li><a href="https://github.com/pmichaillat/recession-indicator" target="_blank">Code and data</a>
+</li>
+</ul>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<p>To answer this question, we develop a new Sahm-type recession indicator that combines vacancy and unemployment data. The indicator is the minimum of the Sahm indicator—the difference between the 3-month trailing average of the unemployment rate and its minimum over the past 12 months—and a similar indicator constructed with the vacancy rate—the difference between the 3-month trailing average of the vacancy rate and its maximum over the past 12 months. We then propose a two-sided recession rule: When our indicator reaches 0.3pp, a recession may have started; when the indicator reaches 0.8pp, a recession has started for sure. This new rule is triggered earlier than the Sahm rule: on average it detects recessions 0.8 month after they have started, while the Sahm rule detects them 2.1 months after their start. The new rule also has a better historical track record: it perfectly identifies all recessions since 1929, while the Sahm rule breaks down before 1960. With August 2024 data, our indicator is at 0.54pp, so the probability that the US economy is now in recession is 48%. In fact, the recession may have started as early as March 2024.</p>
+<hr>
+<h5 id="figure-2b--construction-of-the-recession-indicator-in-the-united-states-19602024">Figure 2B:  Construction of the recession indicator in the United States, 1960–2024</h5>
+<p><img loading="lazy" src="/16a.png" alt=""  />
+</p>
+<h5 id="figure-4--recession-indicator-with-two-sided-recession-rule-in-the-united-states-19602024">Figure 4:  Recession indicator with two-sided recession rule in the United States, 1960–2024</h5>
+<p><img loading="lazy" src="/16b.png" alt=""  />
+</p>
+<hr>
+<h5 id="citation">Citation</h5>
+<p>Michaillat, Pascal, and Emmanuel Saez. 2024. &ldquo;Has the Recession Started?&rdquo; arXiv:2408.05856v2. <a href="https://doi.org/10.48550/arXiv.2408.05856" target="_blank">https://doi.org/10.48550/arXiv.2408.05856</a>
+.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#3f6e75">@techreport</span>{<span style="color:#000">MS24</span>,
+</span></span><span style="display:flex;"><span><span style="color:#836c28">author</span> = <span style="color:#c41a16">{Pascal Michaillat and Emmanuel Saez}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#836c28">year</span> = <span style="color:#c41a16">{2024}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#836c28">title</span> = <span style="color:#c41a16">{Has the Recession Started?}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#836c28">number</span> = <span style="color:#c41a16">{arXiv:2408.05856v2}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#836c28">url</span> = <span style="color:#c41a16">{https://doi.org/10.48550/arXiv.2408.05856}</span>}
+</span></span></code></pre></div><hr>
+<h5 id="related-material">Related material</h5>
+<ul>
+<li><a href="https://pmichaillat.substack.com/p/october-labor-market-update-4b9" target="_blank">Update of the recession indicator with October 2024 data</a>
+</li>
+<li><a href="https://pmichaillat.substack.com/p/september-labor-market-update-0ca" target="_blank">Update of the recession indicator with September 2024 data</a>
+</li>
+</ul>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://pascalmichaillat.org/tags/false-positives/">false positives</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/job-vacancies/">job vacancies</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/michez-rule/">Michez rule</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/nowcasting/">nowcasting</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/recession-indicator/">recession indicator</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/recession-probability/">recession probability</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/recession-threshold/">recession threshold</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/recessions/">recessions</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/sahm-rule/">Sahm rule</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/unemployment/">unemployment</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
