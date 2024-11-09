@@ -10,19 +10,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Research
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Vitae
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
+        - name: Contact
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
 
