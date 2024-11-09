@@ -19,7 +19,7 @@ menu:
         - name: Teaching
           url: courses/
           weight: 3
-        - name: Data
+        - name: References
           url: data/
           weight: 4 
         - name: Contact
