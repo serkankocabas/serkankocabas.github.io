@@ -33,7 +33,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Universidad Carlos III de Madrid
-      year: 2025 (Expected)
+      year: 2026 (Expected)
     - course: MRes in Economic Analysis
       institution: Universidad Carlos III de Madrid
       year: 2022
@@ -54,7 +54,7 @@ social:
     link: 'mailto:skocabas@eco.uc3m.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/serkankocabas17
+    link: https://twitter.com/serkankocabas26
     label: Follow me on Twitter
     display:
       header: true
