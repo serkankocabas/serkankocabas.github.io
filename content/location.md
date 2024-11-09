@@ -1,11 +1,11 @@
 ---
 title: "Location"
-date: 2024-07-02
+date: 2024-11-09
 url: /location/
 aliases:
     - /contact.html
-author: "Pascal Michaillat"
-description: "Pascal Michaillat's office location and mailing address at the University of California, Santa Cruz."
+author: "Serkan Kocabas"
+description: "Serkan Kocabas's office location and mailing address at Universidad Carlos III de Madrid, Madrid/Spain"
 hidemeta: true
 
 ---
@@ -14,18 +14,16 @@ hidemeta: true
 
 #### Office address
 
-Room 437 (4th floor)  
-Engineering 2 Building  
-UC Santa Cruz
+15.1.08 (1th floor)  
+Economics Department, Building 15  
+Getafe, Madrid/Spain 28004
 
 ---
 
 #### Mailing address
-
-Economics Department  
-UC Santa Cruz  
-1156 High Street  
-Santa Cruz, CA 95064
+  
+Economics Department, Building 15  
+Getafe, Madrid/Spain 28004
 
 ---
 
