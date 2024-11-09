@@ -1,85 +1,52 @@
-# Minimalist Hugo Template for Academic Websites
+# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
-This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to create a personal academic website. The template uses the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) but modifies it in various ways to be more minimalist and more adapted to academic websites. The website is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
-## Documentation
+The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
-The template is documented at https://pascalmichaillat.org/d5/.
+[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
+[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
 
-## Illustration
+️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
-The website produced by the template can be viewed at https://pascalmichaillat.org/hugo-website/.
+Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
 
-## Installation
+[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
 
-### On your local machine
+The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
-+ Clone the repository to your local machine
-+ Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` in the terminal.
-+ Since the website is hosted on GitHub Pages, it is convenient to install [GitHub Desktop](https://desktop.github.com). The website can conveniently be updated from your local machine via GitHub Desktop without going to GitHub.
-+ Update the `baseURL` parameter in `config.yml` with the website URL that you plan to use. By default the ULR is `https://username.github.io`.
+- 👉 [**Get Started**](https://hugoblox.com/templates/)
+- 📚 [View the **documentation**](https://docs.hugoblox.com/)
+- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
+- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
+- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
-### On your GitHub account
+## We ask you, humbly, to support this open source movement
 
-+ The first time that you push your repository to GitHub, you need to allow GitHub Actions and GitHub Pages so the website can be built and deployed to GitHub Pages.
-+ The first step is to [ask GitHub to publish the website with a GitHub Action](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).  GitHub offers a ready-made action to publish a Hugo website, called `Deploy Hugo site to Pages`. This action must be enabled in the [Pages Settings](https://github.com/pmichaillat/hugo-website/settings/pages) of your GitHub repository. You can view the workflow triggered by the action in the `.github/workflows/hugo.yml` file.
-+ Once the GitHub Actions are enabled, GitHub will build and publish the website as soon as the repository is updated. 
-+ If you would like to update the deployment action (for instance because it became outdated and fails to deploy the site), you can find the [most recent action on GitHub]( https://github.com/actions/starter-workflows/blob/main/pages/hugo.yml). You can place this file directly in the `.github/workflows` folder to replace the old `hugo.yml` file—but make sure to set `push:
-    branches` to `["main"]`.
+Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
 
-## Usage
+We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### Development
+### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
 
-Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at http://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
+<!--
+<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+-->
 
-### Compilation
+## Demo image credits
 
-Once your website is ready to be made public, run `hugo` in the terminal from the website directory. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder.
+- [Unsplash](https://unsplash.com)
 
-### Deployment
+## Latest news
 
-With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, the [GitHub Action](https://github.com/pmichaillat/hugo-website/actions/workflows/hugo.yml) builds the website and deploys it to [GitHub Pages](https://github.com/pmichaillat/hugo-website/deployments/github-pages).
+<!--START_SECTION:news-->
 
-## Performance
-
-Despite the modifications to the PaperMod theme, the website continues to perform well on mobile and desktop devices. Here is an overview of the mobile performance from [PageSpeed Insights](https://pagespeed.web.dev/):
-
-<img width="470" alt="mobile" src="https://github.com/pmichaillat/hugo-website/assets/85443660/1488df3e-19bb-4f9f-8a86-11f361414d92">
-
-And here is an overview of the desktop performance:
-
-<img width="453" alt="desktop" src="https://github.com/pmichaillat/pmichaillat.github.io/assets/85443660/eff134d2-6097-4bc2-bfd7-4f5c18571789">
-
-## Software
-
-The website was built with Hugo v0.128.2 on an Apple Silicon Mac running macOS Sonoma 14.5. The website was tested and validated on Safari 17.5 on a Mac and on Safari on an iPhone with iOS 17.5.[^1]
-
-[^1]:  The updates to Hugo v0.120 and then to Hugo v0.123 introduced some issues with previous versions of the template. The issue caused by the update to Hugo v0.120 is [#1325 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1325). The issue caused by the update to Hugo v0.123 is [#1449 in the PaperMod repo](https://github.com/adityatelange/hugo-PaperMod/issues/1449). These issues are now resolved
-
-While the template should also work on other operating systems and with other versions of Hugo, compatibility cannot be guaranteed. Users on Windows or Linux systems, or those using different Hugo versions, may need to make minor adjustments. Similarly, the website should work with other browsers, but minor adjustments might be necessary for perfect compatibility. [Please report](https://github.com/pmichaillat/hugo-website/issues) any compatibility issues or bugs to help improve cross-platform support.
-
-## License
-
-The content of this repository is licensed under the terms of the MIT License.
-
-## Real-world implementations
-
-+ [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
-+ [Dylan Balla-Elliott's website](https://www.dballaelliott.com) ([source code](https://github.com/dballaelliott/site))
-+ [Rosa van den Ende's website](https://rosavandenende.github.io) ([source code](https://github.com/rosavandenende/rosavandenende.github.io))
-+ [Samia Kabir's website](https://samiakabir.com) ([source code](https://github.com/SamiaKabir/samiakabir.github.io))
-+ [Dylan Laplace Mermoud's website](https://dylanlaplacemermoud.github.io) ([source code](https://github.com/DylanLaplaceMermoud/dylanlaplacemermoud.github.io))
-+ [Maarten Goos's website](https://maartengoos.com) ([source code](https://github.com/MaartenGoos/website))
-+ [Aryan Ahadinia's website](https://aryanahadinia.github.io) ([source code](https://github.com/AryanAhadinia/AryanAhadinia.github.io))
-+ [Jun Wong's website](https://junwong.org) ([source code](https://github.com/junwong97/junwong97.github.io))
-+ [Erling Rennemo Jellum's website](https://erlingrj.github.io) ([source code](https://github.com/erlingrj/erlingrj.github.io))
-+ [Yangkeun Yun's website](https://yangkeunyun.github.io) ([source code](https://github.com/yangkeunyun/yangkeunyun.github.io))
-+ [Maghfira Ramadhani's website](https://maghfiraer.github.io) ([source code](https://github.com/maghfiraer/maghfiraer.github.io))
-+ [Ismael Moreno-Martinez's website](https://ismaelmorenomartinez.eu) ([source code](https://github.com/ismaelmorenomartinez/ismaelmorenomartinez.github.io))
-+ [Lucas Warwar's website](https://lucaswarwar.github.io) ([source code](https://github.com/lucaswarwar/lucaswarwar.github.io))
-+ [Franz Louis Cesista's website](https://leloykun.github.io) ([source code](https://github.com/leloykun/leloykun.github.io))
-+ [Kostas Bimpikis's website](https://stanford.edu/~kostasb/)
-+ [Pragathi Praveena's website](https://pragathipraveena.com)
-+ [Qiwei He's website](https://www.qiwei-he.com)
-+ [Pierre Bardier's website](https://pierrebard.github.io/pierre-bardier/)
+- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
+- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
+- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
+- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
+- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
+<!--END_SECTION:news-->
