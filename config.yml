@@ -10,10 +10,10 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
+        - name:
           url: books/
           weight: 5 
-        - name: Vitae
+        - name: Research
           url: papers/
           weight: 2
         - name: Teaching
@@ -60,20 +60,17 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
+            - name: Vitae
               url: courses/
-            - name: Data
+            - name: Teaching
               url: data/
-            - name: Books
+            - name: References
               url: books/
-            - name: Tags
+            - name: Contact
               url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
 
     socialIcons:
         - name: CV
