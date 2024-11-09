@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://serkankocabas.github.io" 
+title: Serkan Kocabaş
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    author: Serkan Kocabaş
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,8 +52,10 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Serkan Kocabaş
+          subtitle: "I am an economist currently pursuing my Ph.D. in Economics at Universidad Carlos III de Madrid while working as a Ph.D. trainee at the European Central Bank. Prior to my doctoral studies, I gained valuable experience as an Economist at BBVA-Research. I completed my Master of Research in Economic Analysis at Universidad Carlos III de Madrid. Additionally, I hold a Master of Science in Macroeconomic Policy and Financial Markets from the Barcelona School of Economics, and I obtained my bachelor's degree in Economics from Middle East Technical University.
+
+My research focuses on Fiscal and Monetary policies, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
