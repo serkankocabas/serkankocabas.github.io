@@ -1,39 +1,19 @@
-name: Deploy GitHub Pages
-
+name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
-  pull_request:
-
+      - main
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch any Git submodules (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2
-        # If you're changing the branch from main, 
-        # also change the `main` in `refs/heads/main` 
-        # below accordingly.
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+    - uses: actions/checkout@v4
+    - name: Setup Hugo Extended
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.119.0'
+        extended: true
+    - name: Build
+      run: hugo --minify
+    - name: Deploy
+      run: ./deploy.sh
