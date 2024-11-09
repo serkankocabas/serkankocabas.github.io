@@ -69,7 +69,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Working on a project with Lorena Saiz to investigate the effect of monetary policy on firm-level investment from the Orbis database through bank loans in Anacredit.
+              * Working on a research project exploring the impact of bank supply shocks on firm-level investment in France, Spain, Italy, and Germany using the AnaCredit credit-registry and Orbis firm-level 		database. By decomposing loan growth into bank supply, firm demand, industry, and common shocks following Amiti and Weinstein (2018), we find that idiosyncratic bank supply shocks play a 			significant role in shaping investment dynamics from 2019 to 2023. We also find that the effects of bank supply shocks vary depending on firm characteristics such as size, age, sector, and 			reliance on bank loans.
         - title: Economist
           company: BBVA Research
           company_url: 'https://www.bbvaresearch.com/en/geography/turkiye/'
@@ -258,6 +258,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Aviation team member
+          company: European Central Bank Aviation Club
+          company_url: 'https://ecbaviation.wordpress.com'
+          company_logo:
+          location: Frankfurt,Germany
+          date_start: '2023-09-01'
+          date_end: '2024-09-01'
+          description: |2-
+              
+              * Received all the necessary training to be a pilot
+              * Made a test flight in the event "Be a pilot for a day"
         - title: Sailing team member
           company: Garanti-BBVA Sailing Club
           company_url: 'https://www.instagram.com/garantibbvasailing/'
