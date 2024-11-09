@@ -10,20 +10,20 @@ taxonomies:
 
 menu:
     main:
-        - name:References
-          url: books/
+        - name:Research
+          url: research/
           weight: 5 
-        - name: Research
-          url: papers/
-          weight: 2
         - name: Vitae
-          url: courses/
+          url: vitae/
+          weight: 2
+        - name: Teaching
+          url: teaching/
           weight: 3
         - name: References
-          url: data/
+          url: references/
           weight: 4 
         - name: Contact
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: contact/
           weight: 6
 
 params:
@@ -42,8 +42,8 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
+    MainSections: ["research","vitae","teaching","references","contact"]
+    ShowToc: true
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
@@ -61,15 +61,15 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
           imageHeight: 160
           buttons:
             - name: Research
-              url: papers/
+              url: research/
             - name: Vitae
-              url: courses/
+              url: vitae/
             - name: Teaching
-              url: data/
+              url: teaching/
             - name: References
-              url: books/
+              url: references/
             - name: Contact
-              url: tags/
+              url: contact/
 
 
     socialIcons:
@@ -87,12 +87,10 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/serkankocabas
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
           url: https://x.com/serkankocabas26
+        - name: Linkedin
+          url: https://www.linkedin.com/in/serkankcbs/
 
     assets:
         disableScrollBarStyle: true
