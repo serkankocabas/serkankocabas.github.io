@@ -4,17 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: " "
-    weight: 5
   - name: Home
-    url: '/index.html'
+    url: '#about'
     weight: 10
-  - name: News
-    url: '/news.html'
+  - name: Research
+    url: research/
+    weight: 20
+  - name: Vitae
+    url: vitae/
     weight: 30
-  - name: Publications
-    url: '/publication.html'
+  - name: Teaching
+    url: teaching/
     weight: 40
+  - name: References
+    url: references/
+    weight: 50
+  - name: Contact
+    url: contact/
+    weight: 70
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60
