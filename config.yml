@@ -79,9 +79,9 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:skocabas@eco.uc3m.es
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://us05web.zoom.us/j/*******331?pwd=WlBRbG9Qb3c4SDVJenZTeStzeFR5QT09
         - name: Location
           url: location/
         - name: Office Hours
@@ -89,13 +89,13 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/serkankocabas
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
           url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/serkankocabas26
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +103,7 @@ My research focuses on Fiscal and Monetary policies, International Macro, and Qu
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Serkan Kocabaş"
       icon: favicon.ico
       iconHeight: 18
 
