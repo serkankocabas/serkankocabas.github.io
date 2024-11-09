@@ -10,13 +10,13 @@ taxonomies:
 
 menu:
     main:
-        - name:
+        - name:References
           url: books/
           weight: 5 
         - name: Research
           url: papers/
           weight: 2
-        - name: Teaching
+        - name: Vitae
           url: courses/
           weight: 3
         - name: References
