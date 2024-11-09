@@ -24,12 +24,15 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+
       - uses: actions/checkout@v3
-          with:
-            node-version: '20'
-            cache: 'npm'
-            cache-dependency-path: '**/package-lock.json'
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
+
       - name: Build
+        run:npm ci  
         run: hugo --minify
 
       - name: Deploy
