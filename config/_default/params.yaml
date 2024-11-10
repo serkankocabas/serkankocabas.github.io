@@ -61,6 +61,7 @@ features:
     enable: false
   repository:
     url: 'https://github.com/serkankocabas/serkankocabas.github.io'
+    content_dir: content
     branch: main
   avatar:
     gravatar: false
