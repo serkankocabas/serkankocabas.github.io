@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Serkan Kocabaş # Website name
-baseURL: 'https://serkankocabas.github.io'
+baseURL: 'https://serkankocabas.github.io' # Website URL
 
 ############################
 ## LANGUAGE
@@ -16,13 +16,23 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+
+############################
 ## ADVANCED
 ############################
 
 enableGitInfo: false
 summaryLength: 30
-pagination:
-  pagerSize: 10
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -32,7 +42,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
