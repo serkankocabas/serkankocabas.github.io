@@ -15,7 +15,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: list
+      view: card
   - block: collection
     content:
       title: Work in progress
@@ -25,5 +25,5 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: list
+      view: card
 ---
