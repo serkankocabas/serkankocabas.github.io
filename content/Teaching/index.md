@@ -1,5 +1,5 @@
 ---
-title: 'Teaching'
+title: "Teaching"
 author: Serkan Kocabaş
 date: '2024-11-14'
 slug: teaching
