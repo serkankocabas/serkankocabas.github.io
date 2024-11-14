@@ -1,34 +1,23 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
-
-sections:  
-  - block: experience
-    content:
-      title:
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Teaching Assistant of Monetary and Financial Macroeconomics
-          company: Universidad Carlos III de Madrid
-          company_url: 'https://aplicaciones.uc3m.es/cpa/generaFicha?est=202&plan=398&asig=13664&idioma=2'
-          company_logo: org-y
-          location: Madrid, Spain
-          date_start: '2021-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * The course was designed to teach the role of money and other ﬁnancial assets in the economy, the determinants of money                      demand and supply, the role of monetary policy, and the functioning of the money and ﬁnancial markets
-              * Teaching 90 minutes per week by reviewing the lecture and solving problem sets and hold weekly oﬃce hours for 50 students.                 Additionally, I prepared a midterm and ﬁnal exams for the course all by myself and graded all their exams
-      design:
-        columns: '2'  
+title: 'Teaching'
+author: Serkan Kocabaş
+date: '2024-11-14'
+slug: teaching
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["0", "0", "0", "0"]  
 ---
+
+### Principle of Economics, BSc Course, Universidad Carlos III de Madrid
+
+- Teaching Assistant for Professor Antonio Romero in the [Bachelor in Management and Technology](https://www.uc3m.es/bachelor-degree/management-technology) at Universidad Carlos III de Madrid in Fall 2025.
+
+{{< icon name="download" pack="fas" >}} [Download syllabus](/uploads/poe.pdf)
+
+### Monetary and Financial Economics, BSc Course, Universidad Carlos III de Madrid
+
+- Teaching Assistant for Professor Hernan D. Seoane in the [Bachelor in Economics](https://www.uc3m.es/bachelor-degree/economics?d=Desktop#program) at Universidad Carlos III de Madrid in Spring 2023 and Spring 2024.
+- Awarded for Excellence in Teaching
+
+{{< icon name="download" pack="fas" >}} [Download syllabus](/uploads/monetary.pdf)
