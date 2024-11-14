@@ -210,6 +210,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Macroeconomic and Financial Aspects of Climate Change
+          company: Banco de Espana and Universidad Carlos III de Madrid
+          company_url: 'https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/7th-annual-research-conference-macroeconomic-and-financial-aspects-of-climate-change.html'
+          company_logo:
+          location: Madrid, Spain
+          date_start: '2024-11-14'
+          date_end: ''
         - title: Rethinking Macroeconomic Policy in Times of Turmoil
           company: CEPR, Athens University of Economics and Business, and Bilkent University
           company_url: 'https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/annual-mef'
