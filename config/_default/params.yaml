@@ -147,6 +147,13 @@ cms:
 icon:
   pack:
     ai: true
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false    
 # Extensions
 
 extensions:
