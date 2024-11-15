@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Shocks and Frictions in Euro Area and Turkey Business Cycles: a Bayesian DSGE Approach"
-authors: ["Serkan Kocabas"]
+authors: 
+- admin
 date: 2017-06-19
 featured: true
 publication_types: ["3"]
