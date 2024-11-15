@@ -65,10 +65,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/serkankcbs/
   - icon: researchgate
-    icon_pack: 
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Serkan-Kocabas
   - icon: cv
-    icon_pack: 
+    icon_pack: ai
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
