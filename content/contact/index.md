@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 summary: "How to contact me"
-type: widget_page
+type: landing
 
 sections:
   - block: contact
