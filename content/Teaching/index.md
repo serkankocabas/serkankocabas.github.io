@@ -2,7 +2,6 @@
 title: "Teaching"
 author: Serkan Kocabaş
 date: '2024-11-14'
-slug: teaching
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
