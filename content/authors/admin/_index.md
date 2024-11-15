@@ -64,10 +64,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/serkankcbs/
-  - icon: custom-researchgate
+  - icon: custom/researchgate
     icon_pack: custom
     link: https://www.researchgate.net/profile/Serkan-Kocabas
-  - icon: custom-cv
+  - icon: custom/cv
     icon_pack: custom
     link: uploads/resume.pdf
 
