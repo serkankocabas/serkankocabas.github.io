@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Structural Transformation and Labor Productivity in the Manufacturing Industry in Turkey: 1981-2000 Period"
-authors: ["Serkan Kocabas"]
+authors: 
+- admin
 date: 2015-06-19
 featured: true
 publication_types: ["3"]

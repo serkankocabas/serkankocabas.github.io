@@ -8,7 +8,7 @@
 appearance:
   theme_day: Earth
   theme_night: Earth
-  font: modern
+  font: minimal
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -48,13 +48,14 @@ appointment_url: ''
 
 # Site header
 
-main_menu:
+header:
+ navbar:
   enable: true
   align: c
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: false
+  show_search: true
   highlight_active_link: true
 
 # Localization
@@ -64,7 +65,6 @@ time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
-
 highlight: true
 highlight_languages:
   - r
@@ -147,3 +147,23 @@ cms:
 icon:
   pack:
     ai: true
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: ''
+  api_key: ''
+  zoom: 15    
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+    

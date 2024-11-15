@@ -1,5 +1,5 @@
 ---
-title: "Contact Page"
+title: "Contact"
 summary: "How to contact me"
 type: landing
 

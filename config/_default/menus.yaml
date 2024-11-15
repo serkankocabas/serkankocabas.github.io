@@ -5,26 +5,26 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
   - name: Research
     url: '/research/'
     weight: 20
   - name: Vitae
-    url: vitae/
-    weight: 40
-  - name: Teaching
-    url: teaching/
+    url: '/vitae/'
     weight: 30
+  - name: Teaching
+    url: '/teaching/'
+    weight: 40
   - name: References
-    url: references/
-    weight: 70
-  - name: Contact
-    url: contact/
-    weight: 80
-  - name: "CV"
-    url: uploads/resume.pdf
+    url: '/references/'
     weight: 50
+  - name: Contact
+    url: '/contact/'
+    weight: 60
+  - name: "CV"
+    url: 'uploads/resume.pdf'
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

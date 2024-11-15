@@ -67,6 +67,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Serkan-Kocabas-3
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
