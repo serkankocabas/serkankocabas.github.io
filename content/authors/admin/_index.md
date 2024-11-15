@@ -64,11 +64,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/serkankcbs/
-  - icon: brands/researchgate
-    icon_pack: 
+  - icon: researchgate
+    icon_pack: custom
     link: https://www.researchgate.net/profile/Serkan-Kocabas
-  - icon: brands/cv
-    icon_pack: 
+  - icon: cv
+    icon_pack: custom
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
