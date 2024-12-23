@@ -79,8 +79,9 @@ email: 'skocabas@eco.uc3m.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an economist currently pursuing my Ph.D. in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es/home-phd/) while working as a Ph.D. trainee at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Prior to my doctoral studies, I gained valuable experience as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/). I completed my Master of Research in Economic Analysis at Universidad Carlos III de Madrid. Additionally, I hold a Master of Science in Macroeconomic Policy and Financial Markets from the Barcelona School of Economics, and I obtained my bachelor's degree in Economics from Middle East Technical University.
+I am an economist currently pursuing my [Ph.D. in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my doctoral studies, I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Prior to my Ph.D., I gained valuable experience as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/).
+
+I earned my [Master of Research in Economic Analysis](https://www.uc3m.es/master/economic-analysis) at Universidad Carlos III de Madrid and hold a [Master of Science in Macroeconomic Policy and Financial Markets](https://bse.eu/masters-degrees/specialized-economic-analysis/macroeconomic-policy-and-financial-markets) from the Barcelona School of Economics. Additionally, I obtained my [bachelor’s degree in Economics](hhttps://econ.metu.edu.tr/en/undergraduateprogram) from Middle East Technical University.
 
 My research focuses on Fiscal and Monetary policies, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity.
-
 {style="text-align: justify;"}
