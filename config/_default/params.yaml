@@ -58,6 +58,10 @@ header:
   show_search: true
   highlight_active_link: true
 
+logo:
+  light: 'uploads/icon.png'   # or wherever your logo file lives
+  dark: 'uploads/icon.png' 
+  favicon: 'uploads/icon.png' 
 # Localization
 
 date_format: 'Jan 2, 2006'
