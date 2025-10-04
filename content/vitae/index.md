@@ -208,7 +208,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Short courses and summer schools
+      title: Conferences
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -239,6 +239,20 @@ sections:
           location: Aegina, Greece
           date_start: '2023-06-01'
           date_end: ''
+    design:
+      columns: '2'    
+  - block: experience
+    content:
+      title: Short courses and summer schools
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - title: The EABCN Training School “Finance for Macroeconomists High-Frequency Analysis, News, Surprises and Shocks”
           company: CEPR and Bilkent University
           company_url: 'https://eabcn.org/event/finance-macroeconomists-high-frequency-analysis-news-surprises-and-shocks'
