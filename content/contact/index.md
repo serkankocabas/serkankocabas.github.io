@@ -22,27 +22,13 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/serkankocabas26'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:serkan.kocabas'
+          link: 'https://x.com/serkankocabas__'
         - icon: video
           icon_pack: fas
           name: Zoom Me
           link: 'https://us05web.zoom.us/j/3089067331?pwd=WlBRbG9Qb3c4SDVJenZTeStzeFR5QT09'
       # Automatically link email and phone or display them just as text?
       autolink: true
-      # Choose an email form provider (netlify/formspree)
-      form:
-        provider: netlify
-        formspree:
-          # If using Formspree, enter your Formspree form ID
-          id: ''
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-      # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
         latitude: '40.32039789444768'
         longitude: '-3.7172158565799847'
