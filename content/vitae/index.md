@@ -218,6 +218,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 1st Madrid Mountain Macro Conference (MMM)
+          company: The Banco de Espana together with CEMFI and the Universidad Carlos III de Madrid
+          company_url: 'https://www.bde.es/wbe/es/noticias-eventos/eventos/conferencias/1st-madrid-mountain-macro-conference-mmm.html'
+          company_logo:
+          location: Madrid, Spain
+          date_start: '2025-09-18'
+          date_end: ''
         - title: Macroeconomic and Financial Aspects of Climate Change
           company: Banco de Espana and Universidad Carlos III de Madrid
           company_url: 'https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/7th-annual-research-conference-macroeconomic-and-financial-aspects-of-climate-change.html'
