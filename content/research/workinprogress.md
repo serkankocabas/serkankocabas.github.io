@@ -16,7 +16,3 @@ design:
 ---
 
 **Carbon Policy and Investment: Evidence from Firm Heterogeneity**
-
-**Navigating credit dynamics: Does it matter for firm-level investment? Evidence from AnaCredit**   
-with Lorena Saiz
-
