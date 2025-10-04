@@ -121,27 +121,6 @@ sections:
               * Provided assistance in the preparation of projects centered around technological change, notably focusing on the significance of occupations within the Turkish labor markets, addressing aspects such as job and wage polarization.
               * Collaborated in the research process and creation of working papers for esteemed faculty members, specifically contributing to work examining the repercussions of the population exchange involving Armenian communities on Turkish demographics and economic growth in the aftermath of the First World War.
     design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      title: Achievements
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Ph.D. qualifying exams
-          certificate_url: ''
-          date_end: ''
-          date_start: '2021-07-01'
-          description: Passed all the Ph.D. qualifying exams Microeconomics, Macroeconomics, and Econometrics
-          organization: Universidad Carlos III de Madrid
-          organization_url: https://economics.uc3m.es
-          url: https://economics.uc3m.es/home-phd/  
-    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'    
   - block: accomplishments
@@ -179,6 +158,14 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/masters-in-economic-analysis/
+        - title: Ph.D. qualifying exams
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021-07-01'
+          description: Passed all the Ph.D. qualifying exams Microeconomics, Macroeconomics, and Econometrics
+          organization: Universidad Carlos III de Madrid
+          organization_url: https://economics.uc3m.es
+          url: https://economics.uc3m.es/home-phd/            
         - title: Scholarship for the Master in Macroeconomic Policy and Financial Markets
           certificate_url: ''
           date_end: '2017-09-01'
@@ -224,21 +211,21 @@ sections:
           company_logo:
           location: Madrid, Spain
           date_start: '2025-09-18'
-          date_end: ''
+          date_end: '2025-09-18'
         - title: Macroeconomic and Financial Aspects of Climate Change
           company: Banco de Espana and Universidad Carlos III de Madrid
           company_url: 'https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/7th-annual-research-conference-macroeconomic-and-financial-aspects-of-climate-change.html'
           company_logo:
           location: Madrid, Spain
           date_start: '2024-11-14'
-          date_end: ''
+          date_end: '2024-11-14'
         - title: Rethinking Macroeconomic Policy in Times of Turmoil
           company: CEPR, Athens University of Economics and Business, and Bilkent University
           company_url: 'https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/annual-mef'
           company_logo:
           location: Aegina, Greece
           date_start: '2023-06-01'
-          date_end: ''
+          date_end: '2023-06-01'
     design:
       columns: '2'    
   - block: experience
@@ -259,7 +246,7 @@ sections:
           company_logo: 
           location: Online
           date_start: '2022-11-01'
-          date_end: ''
+          date_end: '2022-11-01'
           description: |2-
 
               * Professor Refet Gurkaynak taught a three-day online class on "Finance for Macroeconomists: High-Frequency Analysis, News,                   Surprises and Shocks"
@@ -269,14 +256,14 @@ sections:
           company_logo: 
           location: Florence, Italy
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2022-09-01'
         - title: The EABCN Training School “The Macroeconomics of Climate Change”
           company: IIES Stockholm University
           company_url: 'https://eabcn.org/sites/default/files/event_report/call_for_applications_-_eabcn_hassler_krusell_2022_-_v2.pdf'
           company_logo: 
           location: Online
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2022-09-01'
           description: |2-
 
               * Professors John Hassler and Per Krusell taught a three-day online class on "Climate Change and its Effects on                               Macro/Monetary Policy"
