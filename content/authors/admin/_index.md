@@ -6,8 +6,6 @@ title: Serkan Kocabaş
 first_name: Serkan
 last_name: Kocabaş
 
-
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -33,7 +31,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Universidad Carlos III de Madrid
-      year: 2025 (Expected)
+      year: July 2026
     - course: MRes in Economic Analysis
       institution: Universidad Carlos III de Madrid
       year: 2022
@@ -54,7 +52,7 @@ social:
     link: 'mailto:skocabas@eco.uc3m.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/serkankocabas26
+    link: https://twitter.com/serkankocabas__
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TGbYYeoAAAAJ&hl=tr&authuser=2
@@ -79,9 +77,9 @@ email: 'skocabas@eco.uc3m.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an economist currently pursuing my [Ph.D. in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my doctoral studies, I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Prior to my Ph.D., I gained valuable experience as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/).
+I am an economist pursuing a [Ph.D. in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/).
 
-I earned my [Master of Research in Economic Analysis](https://www.uc3m.es/master/economic-analysis) at Universidad Carlos III de Madrid and hold a [Master of Science in Macroeconomic Policy and Financial Markets](https://bse.eu/masters-degrees/specialized-economic-analysis/macroeconomic-policy-and-financial-markets) from the Barcelona School of Economics. Additionally, I obtained my [Bachelor of Science in Economics](hhttps://econ.metu.edu.tr/en/undergraduateprogram) from Middle East Technical University.
+My doctoral research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change, and bank and firm heterogeneity.
 
-My research focuses on Monetary policy, International Macro, and Quantitative Macro, with a current emphasis on climate change and firm heterogeneity.
+I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
