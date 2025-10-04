@@ -18,11 +18,11 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a macroeconomist currently focusing on climate change and firm heterogeneity.
+bio: I am a macroeconomist currently focusing on monetary policy, heterogeneity, and the green transition."
 
 # Interests to show in About widget
 interests:
-  - Fiscal and Monetary Theory and Policy
+  - Monetary Theory and Policy
   - International Macroeconomics
   - Quantitative Macroeconomics
 
@@ -77,9 +77,9 @@ email: 'skocabas@eco.uc3m.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am [a Ph.D. candidate in Economics](https://economics.uc3m.es/jobmarket/) at Universidad Carlos III de Madrid. During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
+I am a Ph.D. candidate in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es/jobmarket/). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
 
-My research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change and bank and firm heterogeneity.
+My research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change and bank and firm heterogeneity. I use quantitative models and micro data to study how policy shocks transmit to the real economy.
 
 I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
