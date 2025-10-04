@@ -13,6 +13,7 @@ design:
 
 - Teaching Assistant to Professor Antonio Romero Medina for the [Bachelor in Management and Technology](https://www.uc3m.es/bachelor-degree/management-technology) at Universidad Carlos III de Madrid in Fall 2025 and Fall 2026.
 - Recognized for Excellence in Teaching
+
 {{< icon name="download" pack="fas" >}} [Download syllabus](/uploads/poe.pdf)
 
 ### Monetary and Financial Economics, BSc Course, Universidad Carlos III de Madrid
