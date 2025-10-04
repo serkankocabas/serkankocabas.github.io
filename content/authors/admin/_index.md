@@ -53,9 +53,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/serkankocabas__
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=TGbYYeoAAAAJ&hl=tr&authuser=2
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.com/citations?user=TGbYYeoAAAAJ&hl=tr&authuser=2
   - icon: github
     icon_pack: fab
     link: https://github.com/serkankocabas
@@ -65,9 +65,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Serkan-Kocabas-3
+  #- icon: researchgate
+  #  icon_pack: ai
+  #  link: https://www.researchgate.net/profile/Serkan-Kocabas-3
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -77,9 +77,9 @@ email: 'skocabas@eco.uc3m.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an economist pursuing a [Ph.D. in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/).
+I am [a Ph.D. candidate in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
 
-My doctoral research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change, and bank and firm heterogeneity.
+My research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change and bank and firm heterogeneity.
 
 I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
