@@ -4,6 +4,7 @@
 title: "Navigating credit dynamics: Does it matter for firm-level investment? Evidence from AnaCredit"
 authors: 
 - admin
+- Lorena Saiz
 date: 2025-10-06
 featured: true
 publication_types: ["3"]

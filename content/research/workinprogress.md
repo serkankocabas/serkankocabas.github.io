@@ -14,5 +14,3 @@ design:
     padding: ["20px", "0", "20px", "0"]  
   
 ---
-
-**Carbon Policy and Investment: Evidence from Firm Heterogeneity**

@@ -6,7 +6,7 @@ authors:
 - admin
 date: 2015-06-19
 featured: true
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated version.
 publication: "Working Paper"
