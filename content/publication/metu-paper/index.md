@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Structural Transformation and Labor Productivity in the Manufacturing Industry in Turkey: 1981-2000 Period"
+weight: 2
 authors: 
 - admin
 date: 2015-06-19

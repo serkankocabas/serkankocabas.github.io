@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Carbon Policy and Investment: Evidence from Firm Heterogeneity"
+weight: 3
 authors: 
 - admin
 date: 2022-12-01

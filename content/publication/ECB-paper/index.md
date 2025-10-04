@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Navigating credit dynamics: Does it matter for firm-level investment? Evidence from AnaCredit"
+weight: 2
 authors: 
 - admin
 - Lorena Saiz
