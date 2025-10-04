@@ -5,7 +5,7 @@ title: "Navigating credit dynamics: Does it matter for firm-level investment? Ev
 authors: 
 - admin
 - Lorena Saiz
-date: 2025-10-06
+date: 2025-10-01
 featured: true
 publication_types: ["3"]
 
