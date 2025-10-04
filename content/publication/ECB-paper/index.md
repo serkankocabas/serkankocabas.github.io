@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Navigating credit dynamics: Does it matter for firm-level investment? Evidence from AnaCredit∗"
+title: "Navigating credit dynamics: Does it matter for firm-level investment? Evidence from AnaCredit"
 authors: 
 - admin
 date: 2025-10-06
