@@ -101,6 +101,8 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: circle
+  image: "uploads/avatar.jpeg"
+  image_processing: false
 publications:
   date_format: January 2006
   citation_style: apa
