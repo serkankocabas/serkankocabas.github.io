@@ -17,6 +17,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - References
           - Former Chief Economist
       sort_by: Params.last_name
       sort_ascending: true
