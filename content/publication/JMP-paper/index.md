@@ -16,8 +16,8 @@ abstract: "This paper studies how carbon policy shocks affect firms’ investmen
 links:
 #- name: Article
 #  url: ""
-- name: PDF
-  url: uploads/uc3m_paper.pdf
+#- name: PDF
+#  url: uploads/uc3m_paper.pdf
 #- name: FRBSF Working Paper
 #  url: ""
 #- name: CEPR Discussion Paper
