@@ -77,7 +77,7 @@ email: 'skocabas@eco.uc3m.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am [a Ph.D. candidate in Economics](https://economics.uc3m.es/home-phd/) at [Universidad Carlos III de Madrid](https://economics.uc3m.es). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
+I am [a Ph.D. candidate in Economics](https://economics.uc3m.es/jobmarket/) at Universidad Carlos III de Madrid. During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
 
 My research focuses on monetary policy, international macroeconomics, and quantitative macroeconomics, with particular attention to climate change and bank and firm heterogeneity.
 
