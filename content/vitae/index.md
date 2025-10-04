@@ -68,8 +68,16 @@ sections:
           date_end: '2024-09-01'
           description: |2-
               Responsibilities include:
-
-              * Working on a research project exploring the impact of bank supply shocks on firm-level investment in France, Spain, Italy, and Germany using the AnaCredit credit-registry and Orbis firm-level database. By decomposing loan growth into bank supply, firm demand, industry, and common shocks following Amiti and Weinstein (2018), we find that idiosyncratic bank supply shocks play a significant role in shaping investment dynamics from 2019 to 2023. We also find that the effects of bank supply shocks vary depending on firm characteristics such as size, age, sector, and reliance on bank loans.
+              
+             * Conducted research on the impact of bank supply shocks on firm-level investment in France, Spain, Italy, and Germany.
+             * Utilized the Orbis firm-level database, Bankfocus bank-level database, and the novel AnaCredit matched bank-firm loan database.
+             * Decomposed loan growth into bank supply, firm demand, industry, and common shocks using the methodology of Amiti and Weinstein (2018).
+             * Demonstrated that idiosyncratic bank supply shocks significantly shaped investment dynamics between 2019 and 2023.
+             * Analyzed how firm characteristics, such as size, age, sector, and reliance on bank loans, influenced the transmission of shocks.
+             * Highlighted the roles of loan dependence, firm indebtedness, loan maturity, and the number of borrowing relationships in shaping firm responses to shocks.
+             * Found that short-term loans constrained firms, while multiple banking relationships provided flexibility.
+             * Identified micro and small firms as disproportionately affected, with young and mature firms being more vulnerable to bank supply shocks.
+             * Revealed a diminished impact of bank supply shocks on investment during the COVID-19 pandemic, reflecting changes in financial constraints and firm behavior.
         - title: Economist
           company: BBVA Research
           company_url: 'https://www.bbvaresearch.com/en/geography/turkiye/'
