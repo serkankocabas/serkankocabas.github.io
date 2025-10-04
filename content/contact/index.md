@@ -6,6 +6,7 @@ type: landing
 sections:
   - block: contact
     id: contact
+    active: false
     content:
       title: Contact
       subtitle: ''
