@@ -1,23 +1,21 @@
 ---
 # Display name
-title: Alvaro Ortiz
+title: Lorena Saiz
 
 # Full name (for SEO)
-first_name: Alvaro
-last_name: Ortiz
-
-
+first_name: Lorena 
+last_name: Saiz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Head of Analysis with Big Data
+role: Senior Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: BBVA Research
-    url: https://www.bbvaresearch.com/en/author/alvaroortiz/
+  - name: European Central Bank
+    url: https://www.ecb.europa.eu/pub/research/authors/profiles/lorena-saiz.en.html
 
 
 
@@ -28,19 +26,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:alvaro.ortiz@bbva.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/alvaroortiz1968
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/alvaro-ortiz-vidal-abarca/
+    link: 'mailto:Lorena.saiz@ecb.europa.eu'
   - icon: chrome
     icon_pack: fab
-    link: https://www.bbvaresearch.com/en/author/alvaroortiz
+    link: https://www.ecb.europa.eu/pub/research/authors/profiles/lorena-saiz.en.html
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -49,6 +38,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former Chief Economist
+  - References
 ---
 {style="text-align: justify;"}
