@@ -4,7 +4,7 @@ headless: false
 
 title: Policy Work
 subtitle: 
-weight: 31  # appears after "Work in Progress"
+weight: 20  # appears after "Work in Progress"
 design:
   columns: '2'
   spacing:
