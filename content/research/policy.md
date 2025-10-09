@@ -12,8 +12,8 @@ design:
 ---
 
 <p style="font-size:16px;">
-You can find my policy-oriented work at 
+You can find my policy-oriented research at
 <a href="https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas" target="_blank" rel="noopener">
-BBVA Research from 2017 to 2020
-</a>.
+BBVA Research
+</a>, where I worked from 2017 to 2020.
 </p>
