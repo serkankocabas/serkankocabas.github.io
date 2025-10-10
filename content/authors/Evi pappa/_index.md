@@ -12,7 +12,7 @@ last_name: Pappa
 superuser: false
 
 # Role/position/tagline
-role: Professor of Macroeconomics (Santander Chair)
+role: Full Professor of Macroeconomics, Advisor
 
 # Organizations/Affiliations to show in About widget
 organizations:

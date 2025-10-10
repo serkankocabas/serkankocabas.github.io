@@ -12,7 +12,7 @@ last_name: Seoane
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor of Economics (Ramon and Cajal fellow)
+role: Associate Professor, Co-advisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
