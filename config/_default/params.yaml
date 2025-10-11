@@ -172,3 +172,7 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+    
+footer:
+  show_powered_by: false
+  text: "© 2025 Serkan Kocabaş — All rights reserved."
