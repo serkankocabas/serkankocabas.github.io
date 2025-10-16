@@ -11,7 +11,7 @@ appearance:
   font: minimal
   font_size: L
 
-# SEO
+# SEO & Analytics
 
 marketing:
   seo:
@@ -20,11 +20,18 @@ marketing:
     org_name: ''
     description: ''
     twitter: ''
-marketing:
+  analytics:
+    google_analytics: ''
+    google_tag_manager: ''
+    baidu_tongji: ''
+    microsoft_clarity: ''
   verification:
     google: 'Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks'
     baidu: ''
-   
+    bing: ''
+  google_site_verification: 'Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks'
+  baidu_site_verification: ''
+  baidu_tongji: ''
 
 # Contact (edit or remove options as required)
 
@@ -42,23 +49,23 @@ coordinates:
 directions: 1st floor, Office 15.1.08
 appointment_url: ''
 
-
 # Site header
 
 header:
- navbar:
-  enable: true
-  align: c
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+  navbar:
+    enable: true
+    align: c
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 logo:
-  light: 'uploads/icon.png'   # or wherever your logo file lives
-  dark: 'uploads/icon.png' 
-  favicon: 'uploads/icon.png' 
+  light: 'uploads/icon.png'
+  dark: 'uploads/icon.png'
+  favicon: 'uploads/icon.png'
+
 # Localization
 
 date_format: 'Jan 2, 2006'
@@ -66,6 +73,7 @@ time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
+
 highlight: true
 highlight_languages:
   - r
@@ -91,29 +99,36 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: false
+
 copyright_license:
   enable: false
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
+
 abstract_length: 135
 plugins_js: []
+
 avatar:
   gravatar: false
   shape: circle
   image: "uploads/avatar.jpeg"
   image_processing: false
+
 publications:
   date_format: January 2006
   citation_style: apa
+
 projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+
 breadcrumb:
   page_types:
     book: true
+
 comments:
   provider: ''
   commentable:
@@ -127,6 +142,7 @@ comments:
     show_count: true
   commento:
     url: ''
+
 search:
   provider: wowchemy
   algolia:
@@ -134,34 +150,19 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+
 map:
   provider: 'mapnik'
   api_key: ''
   zoom: 14
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+
 cms:
   branch: master
   local_backend: false
+
 icon:
   pack:
     ai: true
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15    
-# Extensions
 
 extensions:
   cms:
@@ -169,7 +170,7 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    
+
 footer:
   show_powered_by: false
   text: "© 2025 Serkan Kocabaş — All rights reserved."
