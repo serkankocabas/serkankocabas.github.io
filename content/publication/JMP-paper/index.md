@@ -5,6 +5,7 @@ title: "Bridging the Gap: How Banks' Maturity Mismatch Shapes Monetary Policy Tr
 weight: 1
 authors: 
 - admin
+- Lorenzo Ferrante
 date: 2025-10-04
 featured: true
 publication_types: ["3"]
