@@ -177,4 +177,5 @@ footer:
   show_powered_by: false
   text: "© 2025 Serkan Kocabaş — All rights reserved."
 
-googleSiteVerification: "Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks"
+params:
+  googleSiteVerification: "Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks"
