@@ -23,7 +23,6 @@ bio: I am a macroeconomist currently focusing on monetary policy, heterogeneity,
 # Interests to show in About widget
 interests:
   - Monetary Policy
-  - International Macroeconomics
   - Quantitative Macroeconomics
   - Macro- Finance
   - Climate Economics
