@@ -19,6 +19,7 @@ sections:
           - Alumni
           - References
           - Former Chief Economist
+          - Co-author
       sort_by: Params.last_name
       sort_ascending: true
     design:
