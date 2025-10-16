@@ -20,14 +20,11 @@ marketing:
     org_name: ''
     description: ''
     twitter: ''
-  analytics:
-    google_analytics: 'G-GRN7NC35EL'
-    baidu_tongji: ''
-    google_tag_manager: 'GTM-5M6F6BXG'
-    microsoft_clarity: ''
+marketing:
   verification:
-    google_site_verification: "Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks"
-    baidu_site_verification: ""
+    google: 'Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks'
+    baidu: ''
+    bing: ''
 
 # Contact (edit or remove options as required)
 
