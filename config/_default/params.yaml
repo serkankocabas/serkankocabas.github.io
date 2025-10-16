@@ -26,7 +26,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: ''
+    google: 'Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks'
     baidu: ''
 
 # Contact (edit or remove options as required)
@@ -176,6 +176,3 @@ extensions:
 footer:
   show_powered_by: false
   text: "© 2025 Serkan Kocabaş — All rights reserved."
-
-params:
-  googleSiteVerification: "Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks"
