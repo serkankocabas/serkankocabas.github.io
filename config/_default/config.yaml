@@ -72,3 +72,5 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+params:
+  googleSiteVerification: "google-site-verification=NEKHA4IVQDxQnuYukJZDYm7IHiuk3JPS6inEeJc2zB0"
