@@ -24,10 +24,10 @@ marketing:
     google_analytics: 'G-GRN7NC35EL'
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
-    google: 'Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks'
-    baidu: ''
+    google_site_verification: "Q1nSyE_ZZGburdgBWCJdLQioEzSm_gldnilHzZubeks"
+    baidu_site_verification: ""
 
 # Contact (edit or remove options as required)
 
