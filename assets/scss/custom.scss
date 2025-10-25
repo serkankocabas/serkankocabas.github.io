@@ -1,0 +1,15 @@
+/* Custom style for the 'Abstract' button */
+.btn-abstract-toggle {
+  font-size: .75rem;
+  padding: .35rem .75rem;
+  margin-bottom: .25rem;
+}
+
+/* Custom style for the abstract box that appears */
+.abstract-box {
+  background: var(--bs-gray-100); /* A light gray background */
+  padding: .75rem 1rem;
+  border-left: 3px solid var(--bs-gray-600); /* A dark gray border */
+  margin-top: .75rem;
+  font-size: .9rem;
+}

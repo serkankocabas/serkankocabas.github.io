@@ -1,0 +1,67 @@
+{{/*
+  Wowchemy Publication Card: Citation View
+  This is a MODIFIED version to add a collapsible abstract.
+*/}}
+
+{{ $item := . }}
+{{ $item_id := .File.UniqueID }}
+{{ $has_attachments := partial "functions/has_attachments" . }}
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{/* Title */}}
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+
+  {{/* Authors */}}
+  <div class="pub-authors">
+    {{ partial "page_metadata_authors" . }}
+  </div>
+
+  {{/* Publication Details */}}
+  <div class="pub-details">
+    {{ if $item.Params.publication }}
+    <span class="pub-venue">
+      {{- $item.Params.publication | markdownify -}}
+    </span>
+    {{end}}
+    {{ if $item.Params.publication_short }}
+      {{ if $item.Params.publication }}
+      <span class="pub-venue-abbreviated">
+        ({{ $item.Params.publication_short | markdownify }})
+      </span>
+      {{ else }}
+      <span class="pub-venue">
+        {{- $item.Params.publication_short | markdownify -}}
+      </span>
+      {{ end }}
+    {{end}}
+    {{ if $item.Params.doi }}
+    <a href="https://doi.org/{{ $item.Params.doi | urlquery }}" target="_blank" rel="noopener">
+      DOI: {{ $item.Params.doi }}
+    </a>
+    {{end}}
+  </div>
+
+  {{/* Links */}}
+  <div class="pub-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+
+    {{/* MODIFIED: Abstract Toggle Button */}}
+    {{ if .Params.abstract }}
+    <a class="btn btn-outline-secondary btn-sm btn-abstract-toggle" data-bs-toggle="collapse" href="#abstract-{{ $item_id }}" role="button" aria-expanded="false" aria-controls="abstract-{{ $item_id }}">
+      {{ i18n "abstract" | default "Abstract" }}
+    </a>
+    {{ end }}
+  </div>
+
+  {{/* MODIFIED: Collapsible Abstract Box */}}
+  {{ if .Params.abstract }}
+  <div class="collapse" id="abstract-{{ $item_id }}">
+    <div class="abstract-box">
+      {{ .Params.abstract | markdownify }}
+    </div>
+  </div>
+  {{ end }}
+
+</div>
