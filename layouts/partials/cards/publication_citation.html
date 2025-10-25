@@ -1,10 +1,11 @@
 {{/*
   Wowchemy Publication Card: Citation View
-  This is a MODIFIED version to add a collapsible abstract.
+  This is a MODIFIED version to add a collapsible abstract
+  using the new JavaScript method.
 */}}
 
 {{ $item := . }}
-{{ $item_id := .UniqueID }}
+{{ $item_id := .UniqueID }} {{/* This is the bug fix from before */}}
 {{ $has_attachments := partial "functions/has_attachments" . }}
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
@@ -47,21 +48,17 @@
   <div class="pub-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
 
-    {{/* MODIFIED: Abstract Toggle Button */}}
+    {{/* --- THIS IS THE NEW PART --- */}}
+    {{/* Abstract button and div, based on your friend's code */}}
     {{ if .Params.abstract }}
-    <a class="btn btn-outline-secondary btn-sm btn-abstract-toggle" data-bs-toggle="collapse" href="#abstract-{{ $item_id }}" role="button" aria-expanded="false" aria-controls="abstract-{{ $item_id }}">
-      {{ i18n "abstract" | default "Abstract" }}
-    </a>
+      <button class="btn btn-outline-secondary btn-sm btn-toggle" onclick="toggleAbstract(this)">
+        {{ i18n "abstract" | default "Abstract" }}
+      </button>
+      <div class="abstract">
+        {{ .Params.abstract | markdownify }}
+      </div>
     {{ end }}
+    {{/* --- END OF NEW PART --- */}}
+    
   </div>
-
-  {{/* MODIFIED: Collapsible Abstract Box */}}
-  {{ if .Params.abstract }}
-  <div class="collapse" id="abstract-{{ $item_id }}">
-    <div class="abstract-box">
-      {{ .Params.abstract | markdownify }}
-    </div>
-  </div>
-  {{ end }}
-
 </div>
