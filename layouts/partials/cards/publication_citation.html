@@ -4,7 +4,7 @@
 */}}
 
 {{ $item := . }}
-{{ $item_id := .File.UniqueID }}
+{{ $item_id := .UniqueID }}
 {{ $has_attachments := partial "functions/has_attachments" . }}
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
