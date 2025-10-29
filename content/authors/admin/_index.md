@@ -53,7 +53,7 @@ social:
     link: 'mailto:skocabas@eco.uc3m.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/serkankocabas__
+    link: https://twitter.com/serkan__kocabas
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.com/citations?user=TGbYYeoAAAAJ&hl=tr&authuser=2
