@@ -1,0 +1,46 @@
+{{/* Wowchemy v5 View v3 (Card) - MODIFIED */}}
+{{ $item := . }}
+{{ $show_authors_on_card := site.Params.show_authors_on_card | default true }}
+{{ $show_buttons := $item.Params.show_buttons | default true }}
+
+<div class="card-simple">
+
+  {{ with $item.Params.image }}
+  <a href="{{ $item.Permalink }}" class="card-image">
+    {{ $image := $item.Resources.GetMatch (printf "*%s*" .) }}
+    {{ if $image }}
+      {{ $resource := $image.Fit "400x400" }}
+      <img src="{{ $resource.RelPermalink }}" alt="" class="img-fluid" width="{{ $resource.Width }}" height="{{ $resource.Height }}" loading="lazy">
+    {{ end }}
+  </a>
+  {{ end }}
+
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ $item.Permalink }}">{{ $item.Title }}</a>
+    </h3>
+    {{ if and ($show_authors_on_card) ($item.Params.authors) }}
+    <p class="card-text">
+      {{ partial "page_metadata_authors" $item }}
+    </p>
+    {{ end }}
+
+    {{/* --- THIS IS THE MODIFIED PART --- */}}
+    {{ with $item.Summary }}
+    <a href="{{ $item.Permalink }}" class="text-reset">
+      <div class="card-text">{{ . }}</div>
+    </a>
+    {{ end }}
+    {{/* --- END MODIFICATION --- */}}
+
+  </div>
+
+  {{ if $show_buttons }}
+  <div class="card-footer">
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+  </div>
+  {{ end }}
+
+</div>
