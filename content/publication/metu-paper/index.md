@@ -22,7 +22,7 @@ abstract: |
 links:
 #- name: Article
 #  url: ""
-- name: PDF
+- name: Working paper
   url: uploads/metu_paper.pdf
 #- name: FRBSF Working Paper
 #  url: ""
