@@ -16,9 +16,9 @@ publication: "Working Paper"
 # Abstract and optional shortened version.
 abstract: |
   <details>
-    <summary><strong>Abstract</strong> (Click to expand)</summary>
+    <summary><strong>Show Abstract</strong></summary>
     
-    This study investigates how credit supply shocks impact firm-level investment in the Euro area using the novel AnaCredit database. Using the methodology developed by Amiti and Weinstein (2018), we decompose loan growth rates into bank-specific, firm-specific, industry-specific, and common shocks. Our findings show that idiosyncratic bank supply shocks significantly affect firm-level investment, particularly among firms with a high dependence on bank loans. Furthermore, these granular bank-specific shocks explain most of the aggregate loan dynamics. We also find that the effects of bank shocks vary depending on firm characteristics, such as firm size, loan portfolio composition, and reliance on external financing. These results underscore the critical role banks play in shaping investment dynamics, especially under varying economic conditions.
+    This study investigates how credit supply shocks impact firm-level investment in the Euro area using the novel AnaCredit database. Using the methodology developed by (Amiti and Weinstein, 2018), we decompose loan growth rates into bank-specific, firm-specific, industry-specific, and common shocks. Our findings show that idiosyncratic bank supply shocks significantly affect firm-level investment, particularly among firms with a high dependence on bank loans. Furthermore, these granular bank-specific shocks explain most of the aggregate loan dynamics. We also find that the effects of bank shocks vary depending on firm characteristics, such as firm size, loan portfolio composition, and reliance on external financing. These results underscore the critical role banks play in shaping investment dynamics, especially under varying economic conditions.
   </details>
 links:
 #- name: Article

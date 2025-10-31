@@ -14,7 +14,12 @@ publication_types: ["3"]
 publication: "Working Paper"
 
 # Abstract and optional shortened version.
-abstract: "This study examines how banks’ maturity mismatches shape the transmission of monetary policy to the credit supply. Using supervisory data on approximately 1,800 Euro-area banks linked to loan-level credit records, we show that maturity mismatch amplifies the effects of unconventional, but not conventional, monetary policies. When balance sheet tightening (QT) increases long-term rates, banks with larger maturity gaps reduce lending more sharply due to valuation losses and tighter leverage constraints. A New Keynesian DSGE model with endogenous maturity choices explains this asymmetry: high-mismatch banks are more exposed to long-duration losses that compress net worth and amplify real effects. In contrast, standard policy-rate shocks mainly affect short-term rates, leaving funding conditions relatively similar across banks and generating little heterogeneity in lending responses."
+abstract: |
+  <details>
+    <summary><strong>Show Abstract</strong></summary>
+    
+    This study examines how banks’ maturity mismatches shape the transmission of monetary policy to the credit supply. Using supervisory data on approximately 1,800 Euro-area banks linked to loan-level credit records, we show that maturity mismatch amplifies the effects of unconventional, but not conventional, monetary policies. When balance sheet tightening (QT) increases long-term rates, banks with larger maturity gaps reduce lending more sharply due to valuation losses and tighter leverage constraints. A New Keynesian DSGE model with endogenous maturity choices explains this asymmetry: high-mismatch banks are more exposed to long-duration losses that compress net worth and amplify real effects. In contrast, standard policy-rate shocks mainly affect short-term rates, leaving funding conditions relatively similar across banks and generating little heterogeneity in lending responses.
+  </details>
 links:
   - name: "Job Market Paper (PDF)"
     url: uploads/JPM_SerkanKocabas.pdf
