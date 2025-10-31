@@ -24,7 +24,7 @@ bio: I am a macroeconomist currently focusing on monetary policy, heterogeneity,
 interests:
   - Monetary Policy
   - Quantitative Macroeconomics
-  - Macro- Finance
+  - Macro - Finance
   - Climate Economics
 
 # Education to show in About widget
