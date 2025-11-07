@@ -4,7 +4,7 @@ title: Serkan Kocabaş
 
 # Full name (for SEO)
 first_name: Serkan
-last_name: 2
+last_name: Kocabaş
 
 # Is this the primary user of the site?
 superuser: true
