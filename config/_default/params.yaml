@@ -54,7 +54,7 @@ appointment_url: ''
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -63,7 +63,7 @@ header:
 
 logo:
   light: 'uploads/icon.png'
-  dark: 'uploads/icon.png'
+  dark:  'uploads/icon.png'
   favicon: 'uploads/icon.png'
 
 # Localization
