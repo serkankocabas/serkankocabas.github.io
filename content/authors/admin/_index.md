@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Serkan Kocabaş
-{style="text-align: justify;"}
+
 # Full name (for SEO)
 first_name: Serkan
 last_name: Kocabaş
