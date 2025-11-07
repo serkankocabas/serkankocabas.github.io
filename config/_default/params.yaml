@@ -54,9 +54,8 @@ appointment_url: ''
 header:
   navbar:
     enable: true
-    align: c
+    align: l
     show_logo: true
-    align_logo: c
     show_language: false
     show_day_night: true
     show_search: true
