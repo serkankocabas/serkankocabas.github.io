@@ -84,7 +84,7 @@ My research focuses on quantitative macroeconomics , with particular interests i
 
 **My Job Market Paper:** 
 
-**[Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission](uploads/Kocabas_JMP.pdf)**
+**[Bridging the Gap: <br> How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission](uploads/Kocabas_JMP.pdf)**
 
 I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
