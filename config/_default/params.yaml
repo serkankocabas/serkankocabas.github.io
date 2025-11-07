@@ -115,9 +115,6 @@ avatar:
   shape: circle
   image: "uploads/avatar.jpeg"
   image_processing: false
-  # Add these lines:
-  style: "display: block; margin: 0 auto;"
-  text_align: "center"
 
 publications:
   date_format: January 2006
