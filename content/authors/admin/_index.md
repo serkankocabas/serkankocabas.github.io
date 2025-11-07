@@ -82,7 +82,7 @@ I am a Ph.D. candidate in Economics at [Universidad Carlos III de Madrid](https:
 
 My research focuses on quantitative macroeconomics , with particular interests in monetary policy transmission , financial frictions , and environmental (carbon) policy. My methodology combines empirical analysis with quantitative theory, including New Keynesian DSGE models.
 
-**My Job Market Paper:** **[Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission](uploads/Kocabas_JMP.pdf)**
+**My Job Market Paper:** **\\[Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission](uploads/Kocabas_JMP.pdf)**
 
 I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
