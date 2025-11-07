@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Serkan Kocabaş
-
+{style="text-align: justify;"}
 # Full name (for SEO)
 first_name: Serkan
 last_name: Kocabaş
@@ -22,8 +22,8 @@ bio: Quantitative macroeconomist studying monetary, financial, and environmental
 
 # Interests to show in About widget
 interests:
-  - Monetary Policy
   - Quantitative Macroeconomics
+  - Monetary Policy
   - Macro - Finance
   - Climate Economics
 
