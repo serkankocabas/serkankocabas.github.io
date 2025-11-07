@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SERKAN KOCABAŞ
+title: Serkan Kocabaş
 
 # Full name (for SEO)
 first_name: Serkan
