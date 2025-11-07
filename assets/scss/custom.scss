@@ -14,3 +14,15 @@
   padding: .35rem .75rem;
   margin-bottom: .25rem;
 }
+
+/* Center the logo and menu in the header */
+.navbar-brand {
+  margin: 0 auto !important;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav {
+  margin: 0 auto !important;
+  justify-content: center;
+}
