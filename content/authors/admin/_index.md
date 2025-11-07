@@ -80,7 +80,7 @@ highlight_name: true
 ---
 I am a Ph.D. candidate in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es/jobmarket/). During my Ph.D., I completed a Ph.D. traineeship at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and previously worked as an Economist at [BBVA-Research](https://www.bbvaresearch.com/en/search/?searchbbvaresearch=serkan%20kocabas).
 {style="text-align: justify;"}
-My research focuses on quantitative macroeconomics , with particular interests in monetary policy transmission , financial frictions , and environmental (carbon) policy. My methodology combines empirical analysis with quantitative theory, including New Keynesian DSGE models.
+My research focuses on quantitative macroeconomics , with particular interests in monetary policy transmission, financial frictions, and environmental (carbon) policy. My methodology combines empirical analysis with quantitative theory, including New Keynesian DSGE models.
 {style="text-align: justify;"}
 **My Job Market Paper:** <br>[Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission](uploads/Kocabas_JMP.pdf)
 

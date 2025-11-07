@@ -111,7 +111,7 @@ abstract_length: 135
 plugins_js: []
 
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
   image: "uploads/avatar.jpeg"
   image_processing: false
