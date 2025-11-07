@@ -115,6 +115,8 @@ avatar:
   shape: circle
   image: "uploads/avatar.jpeg"
   image_processing: false
+  width: 200
+  height: 200
 
 publications:
   date_format: January 2006
