@@ -50,16 +50,16 @@ directions: 1st floor, Office 15.1.08
 appointment_url: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: c
-    show_logo: false
-    show_language: false
-    show_day_night: true
+    block: 'navbar'
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_day_night: true
+    show_theme_chooser: true
+    logo:
+      text: 'Serkan Kocabaş'
 
 logo:
   light: 'uploads/icon.png'
