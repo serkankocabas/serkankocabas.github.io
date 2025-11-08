@@ -61,7 +61,6 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Serkan Kocabaş'
-      align: c
 
 logo:
   light: 'uploads/icon.png'
