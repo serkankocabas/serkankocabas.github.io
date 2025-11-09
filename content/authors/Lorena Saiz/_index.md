@@ -10,7 +10,7 @@ last_name: Saiz
 superuser: false
 
 # Role/position/tagline
-role: Senior Economist, Business Cycle Analysis Division, European Central Bank
+role: Lead Economist, Business Cycle Analysis Division, European Central Bank
 
 # Organizations/Affiliations to show in About widget
 organizations:
