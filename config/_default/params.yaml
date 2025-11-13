@@ -57,8 +57,8 @@ header:
     align: c
     fixed_to_top: true
     show_search: true
-    show_day_night: true
-    show_theme_chooser: true
+    show_day_night: false
+    show_theme_chooser: false
     logo:
       text: 'Serkan Kocabaş'
 
