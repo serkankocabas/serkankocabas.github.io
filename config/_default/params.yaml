@@ -170,7 +170,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 footer:
   show_powered_by: false
