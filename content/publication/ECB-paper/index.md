@@ -6,7 +6,7 @@ weight: 2
 authors: 
 - admin
 - Lorena Saiz
-date: 2025-10-01
+date: 2025-12-01
 featured: true
 publication_types: ["3"]
 
