@@ -26,7 +26,7 @@ abstract: |
 links:
 #- name: Article
 #  url: ""
-- name: Working paper
+- name: ECB Working Paper Series (Forthcoming)
   url: uploads/ECB.pdf
 #- name: FRBSF Working Paper
 #  url: ""
