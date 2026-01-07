@@ -69,6 +69,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Serkan-Kocabas-3
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0003-5103-4745
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
