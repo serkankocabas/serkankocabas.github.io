@@ -54,9 +54,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/serkan__kocabas
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.com/citations?user=TGbYYeoAAAAJ&hl=tr&authuser=2
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=en&user=TGbYYeoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/serkankocabas
@@ -66,9 +66,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: researchgate
-  #  icon_pack: ai
-  #  link: https://www.researchgate.net/profile/Serkan-Kocabas-3
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Serkan-Kocabas-3
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
