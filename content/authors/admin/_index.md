@@ -51,21 +51,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:skocabas@eco.uc3m.es'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/serkankcbs/  
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/serkankocabas
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/serkan__kocabas
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=TGbYYeoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/serkankocabas
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/serkankcbs/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Serkan-Kocabas-3
