@@ -90,3 +90,8 @@ My research focuses on quantitative macroeconomics, with particular interests in
 I will be on the 2025 / 2026 academic job market.
 {style="text-align: justify;"}
 
+---
+
+### **Latest News**
+
+* **[Jan 2026]** New **ECB Working Paper No. 3173** is out! "[Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf)", with Lorena Saiz.
