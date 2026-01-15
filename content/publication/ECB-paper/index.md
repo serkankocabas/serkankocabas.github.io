@@ -11,7 +11,7 @@ featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "ECB Working Paper Series No. 3173"
+publication: "ECB Working Paper Series No 3173"
 
 # Abstract and optional shortened version.
 abstract: |
@@ -26,7 +26,7 @@ abstract: |
 links:
 #- name: Article
 #  url: ""
-- name: ECB Working Paper Series No. 3173
+- name: ECB Working Paper Series No 3173
   url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf?b7dd40da90d91a05c9a8bdd475f93d50
 #- name: FRBSF Working Paper
 #  url: ""
