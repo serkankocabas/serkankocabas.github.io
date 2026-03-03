@@ -26,7 +26,7 @@ links:
 #- name: Article
 #  url: ""
 - name: Working paper
-  url: uploads/metu_paper.pdf
+  url: uploads/Kocabas_METUpaper.pdf
 #- name: FRBSF Working Paper
 #  url: ""
 #- name: CEPR Discussion Paper

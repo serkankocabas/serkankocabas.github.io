@@ -71,7 +71,7 @@ social:
     link: https://orcid.org/0009-0003-5103-4745
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Kocabas_CV.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'skocabas@eco.uc3m.es'
 
