@@ -21,23 +21,27 @@ organizations:
 bio: Quantitative macroeconomist studying monetary, financial, and environmental policy using empirical analysis and quantitative (DSGE) models.
 
 # Interests to show in About widget
-
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;">Quantitative Macroeconomics</li>
-  <li style="margin-bottom: 8px;">Monetary Policy</li>
-  <li style="margin-bottom: 8px;">Macro - Finance</li>
-  <li style="margin-bottom: 8px;">Climate Economics</li>
-</ul>
+interests:
+  - Quantitative Macroeconomics
+  - Monetary Policy
+  - Macro - Finance
+  - Climate Economics
 
 # Education to show in About widget
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Education</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;"><strong>Ph.D. in Economics</strong>, Universidad Carlos III de Madrid (Expected July 2026)</li>
-  <li style="margin-bottom: 8px;"><strong>MRes in Economic Analysis</strong>, Universidad Carlos III de Madrid (2022)</li>
-  <li style="margin-bottom: 8px;"><strong>MSc in Macroeconomic Policy and Financial Markets</strong>, Barcelona School of Economics (2017)</li>
-  <li style="margin-bottom: 8px;"><strong>BSc in Economics</strong>, Middle East Technical University (2015)</li>
-</ul>
+education:
+  courses:
+    - course: Ph.D. in Economics
+      institution: Universidad Carlos III de Madrid
+      year: July 2026 (Expected)
+    - course: MRes in Economic Analysis
+      institution: Universidad Carlos III de Madrid
+      year: 2022
+    - course: MSc in Macroeconomic Policy and Financial Markets
+      institution: Barcelona School of Economics
+      year: 2017
+    - course: BSc in Economics
+      institution: Middle East Technical University
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
