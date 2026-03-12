@@ -21,7 +21,6 @@ organizations:
 bio: Quantitative macroeconomist studying monetary, financial, and environmental policy using empirical analysis and quantitative (DSGE) models.
 
 # Interests to show in About widget
-<hr style="border: 0; border-top: 1px solid #ccc; margin-bottom: 25px;">
 
 <h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
 <ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
