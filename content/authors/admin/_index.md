@@ -94,4 +94,18 @@ I will be on the 2025 / 2026 academic job market.
 
 ### **Latest News**
 
-* New **ECB Working Paper No 3173**! "[Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf)", with Lorena Saiz.
+### **News & Upcoming Talks**
+
+* **[Previous News]** New **ECB Working Paper No 3173**! "[Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf)", with Lorena Saiz.
+
+* **March 2, 2026:** My co-author Lorenzo Ferrante presented our paper *["Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"](https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf)* at the **6th Benelux Banking Research Day** in Rotterdam, Netherlands.
+
+* **April 8-10, 2026:** I will present my paper *["Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"](https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf)* (joint with Lorenzo Ferrante) at the **[2nd Cam-Risk Conference](https://economiaemanagement.dip.unipv.it/en/research/research-teams-and-topics/research-centres-and-teams/camrisk/events)** in Pavia, Italy.
+
+* **May 4, 2026:** I will attend as a discussant at the **[Workshop on Digital Assets and Monetary Policy Transmission](https://eabcn.org/event/workshop-digital-assets-and-monetary-policy-transmission)** in Rome, Italy.
+
+* **May 18-20, 2026:** I will present my paper *["Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"](https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf)* (joint with Lorenzo Ferrante) at the **[European Association of Young Economists Annual Meeting](https://www.uik.eus/en/activity/2026-european-association-young-economists-annual-meeting)** in Bilbao, Spain.
+
+* **May 27-30, 2026:** My co-author Lorenzo Ferrante will present our paper *["Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"](https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf)* at the **[International Conference on Macroeconomic Analysis and International Finance 2026](https://icmaif.soc.uoc.gr)** in Crete, Greece.
+
+* **June 22-24, 2026:** I will present my paper *["Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"](https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf)* (joint with Lorenzo Ferrante) at the **[10th International Ioannina Meeting on Applied Economics and Finance](https://imaef.econ.uoi.gr)** in Syros, Greece.
