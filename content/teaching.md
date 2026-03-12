@@ -11,7 +11,7 @@ design:
 
 ### Principles of Economics, BSc Course, Universidad Carlos III de Madrid
 
-- Teaching Assistant to Professor Antonio Romero Medina for the [Bachelor in Management and Technology](https://www.uc3m.es/bachelor-degree/management-technology) (Fall 2024 & Fall 2025).
+- Teaching Assistant to Professor Antonio Romero Medina for the href="https://www.uc3m.es/bachelor-degree/management-technology" style="color: #0056b3; text-decoration: none;">"Bachelor in Management and Technology"</a></em>  (Fall 2024 & Fall 2025).
 {style="text-align: justify;"}
 - {{< icon name="award" pack="fas" >}} [Teaching Excellence Certificate 2024/2025](/uploads/2024.pdf)
 - {{< icon name="award" pack="fas" >}} [Teaching Excellence Certificate 2025/2026](/uploads/2025.pdf)
@@ -25,3 +25,4 @@ design:
 - {{< icon name="award" pack="fas" >}} [Teaching Excellence Certificate 2023/2024](/uploads/2023.pdf)
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} [Download syllabus](/uploads/monetary.pdf)
+href="https://www.uc3m.es/bachelor-degree/management-technology" style="color: #0056b3; text-decoration: none;">"Bachelor in Management and Technology"</a></em> 
