@@ -116,7 +116,7 @@ My research focuses on quantitative macroeconomics, with particular interests in
 
   <li style="margin-bottom: 8px;"><strong>March 2, 2026:</strong> My co-author Lorenzo Ferrante presented our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong>6th Benelux Banking Research Day</strong> in Rotterdam, Netherlands.</li>
 
-  <li style="margin-bottom: 8px;"><strong>[Previous News]</strong> New <strong>ECB Working Paper No 3173</strong>! "<a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf" style="color: #0056b3; text-decoration: none;">Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit</a>", with Lorena Saiz.</li>
+  <li style="margin-bottom: 8px;"> New <strong>ECB Working Paper No 3173</strong>! "<a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf" style="color: #0056b3; text-decoration: none;">Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit</a>", with Lorena Saiz.</li>
   
 
   
