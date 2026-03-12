@@ -92,8 +92,6 @@ I will be on the 2025 / 2026 academic job market.
 
 ---
 
-### **Latest News**
-
 ### **News & Upcoming Talks**
 
 * **[Previous News]** New **ECB Working Paper No 3173**! "[Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf)", with Lorena Saiz.
