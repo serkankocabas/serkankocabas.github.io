@@ -20,30 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Quantitative macroeconomist studying monetary, financial, and environmental policy using empirical analysis and quantitative (DSGE) models.
 
-# Interests to show in About widget
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;">Quantitative Macroeconomics</li>
-  <li style="margin-bottom: 8px;">Monetary Policy</li>
-  <li style="margin-bottom: 8px;">Macro - Finance</li>
-  <li style="margin-bottom: 8px;">Climate Economics</li>
-</ul>
-
-# Education to show in About widget
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Education</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;"><strong>Ph.D. in Economics</strong>, Universidad Carlos III de Madrid (Expected July 2026)</li>
-  <li style="margin-bottom: 8px;"><strong>MRes in Economic Analysis</strong>, Universidad Carlos III de Madrid (2022)</li>
-  <li style="margin-bottom: 8px;"><strong>MSc in Macroeconomic Policy and Financial Markets</strong>, Barcelona School of Economics (2017)</li>
-  <li style="margin-bottom: 8px;"><strong>BSc in Economics</strong>, Middle East Technical University (2015)</li>
-</ul>
-
-</div>
-
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -69,6 +46,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Kocabas_CV.pdf
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'skocabas@eco.uc3m.es'
 
@@ -90,32 +68,44 @@ My research focuses on quantitative macroeconomics, with particular interests in
 <strong>My Job Market Paper:</strong> <br><a href="uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission</a>
 </p>
 
-<p style="text-align: justify; margin-bottom: 25px;">
-I will be on the 2025 / 2026 academic job market.
+<p style="text-align: justify; margin-bottom: 25px; color: #b71c1c;">
+<strong>I will be on the 2025 / 2026 academic job market.</strong>
 </p>
 
----
+<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
+<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
+  <li style="margin-bottom: 8px;">Quantitative Macroeconomics</li>
+  <li style="margin-bottom: 8px;">Monetary Policy</li>
+  <li style="margin-bottom: 8px;">Macro - Finance</li>
+  <li style="margin-bottom: 8px;">Climate Economics</li>
+</ul>
 
-### **News & Upcoming Talks**
+<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Education</h3>
+<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
+  <li style="margin-bottom: 8px;"><strong>Ph.D. in Economics</strong>, Universidad Carlos III de Madrid (Expected July 2026)</li>
+  <li style="margin-bottom: 8px;"><strong>MRes in Economic Analysis</strong>, Universidad Carlos III de Madrid (2022)</li>
+  <li style="margin-bottom: 8px;"><strong>MSc in Macroeconomic Policy and Financial Markets</strong>, Barcelona School of Economics (2017)</li>
+  <li style="margin-bottom: 8px;"><strong>BSc in Economics</strong>, Middle East Technical University (2015)</li>
+</ul>
 
-<div style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.5; color: #333;">
+<hr style="border: 0; border-top: 1px solid #ccc; margin-bottom: 25px;">
 
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">News &amp; Upcoming Talks</h3>
+<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">News & Upcoming Talks</h3>
 
 <ul style="margin-top: 0; padding-left: 20px;">
-  <li style="margin-bottom: 8px;"><strong>[Previous News]</strong> New <strong>ECB Working Paper No 3173</strong>! "<a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf">Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit</a>", with Lorena Saiz.</li>
+  <li style="margin-bottom: 8px;"><strong>[Previous News]</strong> New <strong>ECB Working Paper No 3173</strong>! "<a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3173~3c6d25609d.en.pdf" style="color: #0056b3; text-decoration: none;">Navigating credit dynamics: does it matter for firm-level investment? Evidence from AnaCredit</a>", with Lorena Saiz.</li>
   
-  <li style="margin-bottom: 8px;"><strong>March 2, 2026:</strong> My co-author Lorenzo Ferrante presented our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong>6th Benelux Banking Research Day</strong> in Rotterdam, Netherlands.</li>
+  <li style="margin-bottom: 8px;"><strong>March 2, 2026:</strong> My co-author Lorenzo Ferrante presented our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong>6th Benelux Banking Research Day</strong> in Rotterdam, Netherlands.</li>
   
-  <li style="margin-bottom: 8px;"><strong>April 8-10, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://economiaemanagement.dip.unipv.it/en/research/research-teams-and-topics/research-centres-and-teams/camrisk/events">2nd Cam-Risk Conference</a></strong> in Pavia, Italy.</li>
+  <li style="margin-bottom: 8px;"><strong>April 8-10, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://economiaemanagement.dip.unipv.it/en/research/research-teams-and-topics/research-centres-and-teams/camrisk/events" style="color: #0056b3; text-decoration: none;">2nd Cam-Risk Conference</a></strong> in Pavia, Italy.</li>
   
-  <li style="margin-bottom: 8px;"><strong>May 4, 2026:</strong> I will attend as a discussant at the <strong><a href="https://eabcn.org/event/workshop-digital-assets-and-monetary-policy-transmission">Workshop on Digital Assets and Monetary Policy Transmission</a></strong> in Rome, Italy.</li>
+  <li style="margin-bottom: 8px;"><strong>May 4, 2026:</strong> I will attend as a discussant at the <strong><a href="https://eabcn.org/event/workshop-digital-assets-and-monetary-policy-transmission" style="color: #0056b3; text-decoration: none;">Workshop on Digital Assets and Monetary Policy Transmission</a></strong> in Rome, Italy.</li>
   
-  <li style="margin-bottom: 8px;"><strong>May 18-20, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://www.uik.eus/en/activity/2026-european-association-young-economists-annual-meeting">European Association of Young Economists Annual Meeting</a></strong> in Bilbao, Spain.</li>
+  <li style="margin-bottom: 8px;"><strong>May 18-20, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://www.uik.eus/en/activity/2026-european-association-young-economists-annual-meeting" style="color: #0056b3; text-decoration: none;">European Association of Young Economists Annual Meeting</a></strong> in Bilbao, Spain.</li>
   
-  <li style="margin-bottom: 8px;"><strong>May 27-30, 2026:</strong> My co-author Lorenzo Ferrante will present our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong><a href="https://icmaif.soc.uoc.gr">International Conference on Macroeconomic Analysis and International Finance 2026</a></strong> in Crete, Greece.</li>
+  <li style="margin-bottom: 8px;"><strong>May 27-30, 2026:</strong> My co-author Lorenzo Ferrante will present our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong><a href="https://icmaif.soc.uoc.gr" style="color: #0056b3; text-decoration: none;">International Conference on Macroeconomic Analysis and International Finance 2026</a></strong> in Crete, Greece.</li>
   
-  <li style="margin-bottom: 8px;"><strong>June 22-24, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://imaef.econ.uoi.gr">10th International Ioannina Meeting on Applied Economics and Finance</a></strong> in Syros, Greece.</li>
+  <li style="margin-bottom: 8px;"><strong>June 22-24, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://imaef.econ.uoi.gr" style="color: #0056b3; text-decoration: none;">10th International Ioannina Meeting on Applied Economics and Finance</a></strong> in Syros, Greece.</li>
 </ul>
 
 </div>
