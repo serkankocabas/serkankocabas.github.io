@@ -21,27 +21,24 @@ organizations:
 bio: Quantitative macroeconomist studying monetary, financial, and environmental policy using empirical analysis and quantitative (DSGE) models.
 
 # Interests to show in About widget
-interests:
-- '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Quantitative Macroeconomics</span>'
-  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Monetary Policy</span>'
-  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Macro - Finance</span>'
-  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Climate Economics</span>'
+<hr style="border: 0; border-top: 1px solid #ccc; margin-bottom: 25px;">
+
+<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
+<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
+  <li style="margin-bottom: 8px;">Quantitative Macroeconomics</li>
+  <li style="margin-bottom: 8px;">Monetary Policy</li>
+  <li style="margin-bottom: 8px;">Macro - Finance</li>
+  <li style="margin-bottom: 8px;">Climate Economics</li>
+</ul>
 
 # Education to show in About widget
-education:
-  courses:
-- course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">Ph.D. in Economics</span>'
-      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Universidad Carlos III de Madrid</span>'
-      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">July 2026 (Expected)</span>'
-    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">MRes in Economic Analysis</span>'
-      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Universidad Carlos III de Madrid</span>'
-      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2022</span>'
-    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">MSc in Macroeconomic Policy and Financial Markets</span>'
-      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Barcelona School of Economics</span>'
-      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2017</span>'
-    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">BSc in Economics</span>'
-      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Middle East Technical University</span>'
-      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2015</span>'
+<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Education</h3>
+<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
+  <li style="margin-bottom: 8px;"><strong>Ph.D. in Economics</strong>, Universidad Carlos III de Madrid (Expected July 2026)</li>
+  <li style="margin-bottom: 8px;"><strong>MRes in Economic Analysis</strong>, Universidad Carlos III de Madrid (2022)</li>
+  <li style="margin-bottom: 8px;"><strong>MSc in Macroeconomic Policy and Financial Markets</strong>, Barcelona School of Economics (2017)</li>
+  <li style="margin-bottom: 8px;"><strong>BSc in Economics</strong>, Middle East Technical University (2015)</li>
+</ul>
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
