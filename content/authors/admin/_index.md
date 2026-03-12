@@ -20,7 +20,33 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Quantitative macroeconomist studying monetary, financial, and environmental policy using empirical analysis and quantitative (DSGE) models.
 
+# Interests to show in About widget
+interests:
+  - Quantitative Macroeconomics
+  - Monetary Policy
+  - Macro - Finance
+  - Climate Economics
+
+# Education to show in About widget
+education:
+  courses:
+    - course: Ph.D. in Economics
+      institution: Universidad Carlos III de Madrid
+      year: July 2026 (Expected)
+    - course: MRes in Economic Analysis
+      institution: Universidad Carlos III de Madrid
+      year: 2022
+    - course: MSc in Macroeconomic Policy and Financial Markets
+      institution: Barcelona School of Economics
+      year: 2017
+    - course: BSc in Economics
+      institution: Middle East Technical University
+      year: 2015
+
 # Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,7 +72,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Kocabas_CV.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'skocabas@eco.uc3m.es'
 
@@ -71,22 +96,6 @@ My research focuses on quantitative macroeconomics, with particular interests in
 <p style="text-align: justify; margin-bottom: 25px; color: #b71c1c;">
 <strong>I will be on the 2025 / 2026 academic job market.</strong>
 </p>
-
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Interests</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;">Quantitative Macroeconomics</li>
-  <li style="margin-bottom: 8px;">Monetary Policy</li>
-  <li style="margin-bottom: 8px;">Macro - Finance</li>
-  <li style="margin-bottom: 8px;">Climate Economics</li>
-</ul>
-
-<h3 style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Education</h3>
-<ul style="margin-top: 0; padding-left: 20px; margin-bottom: 25px;">
-  <li style="margin-bottom: 8px;"><strong>Ph.D. in Economics</strong>, Universidad Carlos III de Madrid (Expected July 2026)</li>
-  <li style="margin-bottom: 8px;"><strong>MRes in Economic Analysis</strong>, Universidad Carlos III de Madrid (2022)</li>
-  <li style="margin-bottom: 8px;"><strong>MSc in Macroeconomic Policy and Financial Markets</strong>, Barcelona School of Economics (2017)</li>
-  <li style="margin-bottom: 8px;"><strong>BSc in Economics</strong>, Middle East Technical University (2015)</li>
-</ul>
 
 <hr style="border: 0; border-top: 1px solid #ccc; margin-bottom: 25px;">
 
