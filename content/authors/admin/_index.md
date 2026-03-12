@@ -22,26 +22,26 @@ bio: Quantitative macroeconomist studying monetary, financial, and environmental
 
 # Interests to show in About widget
 interests:
-  - Quantitative Macroeconomics
-  - Monetary Policy
-  - Macro - Finance
-  - Climate Economics
+- '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Quantitative Macroeconomics</span>'
+  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Monetary Policy</span>'
+  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Macro - Finance</span>'
+  - '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Climate Economics</span>'
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Economics
-      institution: Universidad Carlos III de Madrid
-      year: July 2026 (Expected)
-    - course: MRes in Economic Analysis
-      institution: Universidad Carlos III de Madrid
-      year: 2022
-    - course: MSc in Macroeconomic Policy and Financial Markets
-      institution: Barcelona School of Economics
-      year: 2017
-    - course: BSc in Economics
-      institution: Middle East Technical University
-      year: 2015
+- course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">Ph.D. in Economics</span>'
+      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Universidad Carlos III de Madrid</span>'
+      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">July 2026 (Expected)</span>'
+    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">MRes in Economic Analysis</span>'
+      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Universidad Carlos III de Madrid</span>'
+      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2022</span>'
+    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">MSc in Macroeconomic Policy and Financial Markets</span>'
+      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Barcelona School of Economics</span>'
+      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2017</span>'
+    - course: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">BSc in Economics</span>'
+      institution: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Middle East Technical University</span>'
+      year: '<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">2015</span>'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -94,7 +94,7 @@ My research focuses on quantitative macroeconomics, with particular interests in
 </p>
 
 <p style="text-align: justify; margin-bottom: 25px; color: #b71c1c;">
-<strong>I will be on the 2025 / 2026 academic job market.</strong>
+<strong>I am on the 2025 / 2026 academic job market.</strong>
 </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; margin-bottom: 25px;">
@@ -110,9 +110,9 @@ My research focuses on quantitative macroeconomics, with particular interests in
   
   <li style="margin-bottom: 8px;"><strong>May 4, 2026:</strong> I will attend as a discussant at the <strong><a href="https://eabcn.org/event/workshop-digital-assets-and-monetary-policy-transmission" style="color: #0056b3; text-decoration: none;">Workshop on Digital Assets and Monetary Policy Transmission</a></strong> in Rome, Italy.</li>
   
-  <li style="margin-bottom: 8px;"><strong>May 18-20, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://www.uik.eus/en/activity/2026-european-association-young-economists-annual-meeting" style="color: #0056b3; text-decoration: none;">European Association of Young Economists Annual Meeting</a></strong> in Bilbao, Spain.</li>
+  <li style="margin-bottom: 8px;"><strong>May 18-20, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://www.uik.eus/en/activity/2026-european-association-young-economists-annual-meeting" style="color: #0056b3; text-decoration: none;">2026 European Association of Young Economists Annual Meeting</a></strong> in Bilbao, Spain.</li>
   
-  <li style="margin-bottom: 8px;"><strong>May 27-30, 2026:</strong> My co-author Lorenzo Ferrante will present our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong><a href="https://icmaif.soc.uoc.gr" style="color: #0056b3; text-decoration: none;">International Conference on Macroeconomic Analysis and International Finance 2026</a></strong> in Crete, Greece.</li>
+  <li style="margin-bottom: 8px;"><strong>May 27-30, 2026:</strong> My co-author Lorenzo Ferrante will present our paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> at the <strong><a href="https://icmaif.soc.uoc.gr" style="color: #0056b3; text-decoration: none;">30th International Conference on Macroeconomic Analysis and International Finance</a></strong> in Crete, Greece.</li>
   
   <li style="margin-bottom: 8px;"><strong>June 22-24, 2026:</strong> I will present my paper <em><a href="https://serkankocabas.github.io/uploads/Kocabas_JMP.pdf" style="color: #0056b3; text-decoration: none;">"Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"</a></em> (joint with Lorenzo Ferrante) at the <strong><a href="https://imaef.econ.uoi.gr" style="color: #0056b3; text-decoration: none;">10th International Ioannina Meeting on Applied Economics and Finance</a></strong> in Syros, Greece.</li>
 </ul>
