@@ -31,7 +31,7 @@ design:
 
 <ul>
   <li style="text-align: justify; margin-bottom: 8px;">
-    Teaching Assistant to Professor Hernan D. Seoane for the <a href="https://www.uc3m.es/bachelor-degree/economics?d=Desktop#program" style="color: #0056b3; text-decoration: none;">Bachelor in Economics</a> (Spring 2023 & Spring 2024).
+    Teaching Assistant to Professor Hernan D. Seoane for the <a href="https://www.uc3m.es/bachelor-degree/economics?d=Desktop#program" style="color: #0056b3; text-decoration: none;">"Bachelor in Economics"</a> (Spring 2023 & Spring 2024).
   </li>
   <li style="text-align: justify; margin-bottom: 8px;">
     {{< icon name="award" pack="fas" >}} <a href="/uploads/2023.pdf" style="color: #0056b3; text-decoration: none;">Teaching Excellence Certificate 2023/2024</a>
